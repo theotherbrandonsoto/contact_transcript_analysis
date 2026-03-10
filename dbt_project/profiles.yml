@@ -1,0 +1,7 @@
+transcript_analysis:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/transcript_analysis.duckdb"
+      threads: 4

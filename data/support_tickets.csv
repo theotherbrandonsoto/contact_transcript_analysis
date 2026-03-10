@@ -1,0 +1,661 @@
+ticket_id,user_id,plan_type,is_churned,channel,status,sentiment,primary_label,secondary_label,tertiary_label,ticket_body,created_at
+TKT-A39DF11A,USR-00026,Standard,True,Phone,Resolved,Neutral,Marketing / SEO,Website Not Updating,Content Change,My website hasn't updated since I made changes two days ago.,2025-09-14
+TKT-9784C1A1,USR-00162,Standard,False,Phone,Resolved,Neutral,Account Access,Permissions Error,Admin Role,My staff member can't access the dashboard even though I invited them.,2026-01-14
+TKT-EA50D44B,USR-00155,Standard,False,Email,Open,Positive,Billing,Invoice Question,Tax Documentation,Can you send me an invoice for my records? I can't find it in the portal.,2026-01-04
+TKT-E70D7E24,USR-00065,Basic,False,Email,Escalated,Frustrated,Online Ordering,Order Not Received,Notification Failure,A customer said they placed an order but I never received it in my POS.,2026-03-03
+TKT-2C146C8F,USR-00101,Standard,False,Email,Resolved,Angry,Billing,Invoice Question,Monthly Summary,I was charged twice this month and need a refund right away.,2026-03-09
+TKT-2A96C743,USR-00112,Standard,False,Email,Escalated,Neutral,Onboarding,Training Request,Reporting Tutorial,My site still isn't published after completing setup. What's missing?,2026-02-03
+TKT-9915D0FB,USR-00020,Basic,False,Chat,Open,Neutral,Product / Feature,Feature Request,Multi-Location,I've been asking for multi-location support for months. Any update?,2025-12-13
+TKT-88CE66AA,USR-00052,Standard,True,Email,In Progress,Neutral,Marketing / SEO,SEO Performance,Keyword Targeting,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-11-14
+TKT-3C880CD7,USR-00188,Premium,False,Email,Resolved,Angry,Account Access,Permissions Error,Staff Access,My account got locked and I don't know why.,2025-10-15
+TKT-DE968F3C,USR-00011,Basic,True,Email,Resolved,Angry,Online Ordering,Page Not Loading,Mobile Browser,"My online ordering page is completely broken, customers can't place orders.",2025-09-18
+TKT-C16977F3,USR-00038,Premium,False,Phone,Open,Frustrated,Product / Feature,Performance Issue,Timeout Error,I'm not receiving any notifications when new orders come in.,2025-12-15
+TKT-C7C8466B,USR-00018,Basic,False,Phone,Resolved,Neutral,Onboarding,Integration Help,Clover Integration,Can someone walk me through how to set up my first email campaign?,2025-12-22
+TKT-08FFA169,USR-00179,Basic,True,Chat,In Progress,Frustrated,Onboarding,Training Request,Reporting Tutorial,Can someone walk me through how to set up my first email campaign?,2026-02-20
+TKT-E4540014,USR-00186,Basic,False,Chat,Resolved,Frustrated,Onboarding,Training Request,Campaign Setup,My site still isn't published after completing setup. What's missing?,2026-01-26
+TKT-AFBD9DDA,USR-00159,Standard,False,Email,Resolved,Frustrated,Account Access,Permissions Error,Admin Role,I can't log in. It says my password is wrong but I just reset it.,2025-09-29
+TKT-A1BF7D2C,USR-00184,Premium,False,Email,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,My business hours on Google are still showing the old times.,2025-11-02
+TKT-850CDD68,USR-00131,Basic,True,Chat,Resolved,Angry,Onboarding,Go-Live Issue,Ordering Not Active,How do I import my existing menu? I can't figure out the format.,2026-02-28
+TKT-06CE2148,USR-00098,Standard,False,Chat,Open,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,The email campaign I scheduled yesterday never went out.,2025-09-23
+TKT-C406F8BE,USR-00040,Basic,True,Chat,Resolved,Neutral,Onboarding,Training Request,Reporting Tutorial,How do I import my existing menu? I can't figure out the format.,2026-02-10
+TKT-F21E042F,USR-00164,Premium,True,Chat,Escalated,Neutral,Account Access,Account Setup,New User Invite,The two-factor authentication code isn't being sent to my phone.,2025-10-07
+TKT-3B253E67,USR-00174,Basic,True,Email,Resolved,Frustrated,Billing,Invoice Question,Tax Documentation,Can you send me an invoice for my records? I can't find it in the portal.,2025-09-27
+TKT-D8BB62DB,USR-00008,Basic,False,Email,In Progress,Angry,Online Ordering,Menu Not Updating,Item Availability,"My online ordering page is completely broken, customers can't place orders.",2026-03-01
+TKT-4CE9D500,USR-00049,Premium,False,Email,In Progress,Positive,Billing,Failed Payment,Credit Card Expired,There's an unexpected charge on my account from last week.,2025-09-21
+TKT-1E2D6567,USR-00077,Basic,False,Chat,Resolved,Angry,Account Access,Permissions Error,Staff Access,The two-factor authentication code isn't being sent to my phone.,2025-10-29
+TKT-DA3C9E8E,USR-00079,Standard,False,Phone,Escalated,Positive,Onboarding,Training Request,Dashboard Walkthrough,Can someone walk me through how to set up my first email campaign?,2026-01-17
+TKT-81214B7E,USR-00129,Standard,True,Chat,Resolved,Neutral,Billing,Failed Payment,Credit Card Expired,I signed up for the annual plan but I'm still being billed monthly.,2025-12-29
+TKT-CF705519,USR-00185,Standard,True,Email,Resolved,Neutral,Billing,Failed Payment,Credit Card Expired,I signed up for the annual plan but I'm still being billed monthly.,2025-11-30
+TKT-C59C296A,USR-00073,Standard,False,Chat,Open,Frustrated,Product / Feature,Feature Request,API Access,I'm not receiving any notifications when new orders come in.,2025-09-16
+TKT-D64D0042,USR-00166,Basic,False,Phone,Open,Angry,Marketing / SEO,Campaign Not Running,Ad Integration,My website hasn't updated since I made changes two days ago.,2026-01-10
+TKT-7A28ACD8,USR-00086,Premium,False,Phone,Resolved,Positive,Account Access,Account Setup,Timezone Setting,I'm getting an error when trying to add a new team member.,2026-03-06
+TKT-EF93205E,USR-00009,Standard,False,Email,Escalated,Angry,Billing,Duplicate Charge,Promo Code Applied,There's an unexpected charge on my account from last week.,2026-01-08
+TKT-31B53554,USR-00027,Standard,True,Email,Escalated,Frustrated,Account Access,Account Locked,Suspicious Activity,I'm getting an error when trying to add a new team member.,2026-01-04
+TKT-7674426E,USR-00054,Premium,False,Phone,Resolved,Positive,Onboarding,Training Request,Dashboard Walkthrough,Can someone walk me through how to set up my first email campaign?,2025-12-07
+TKT-241224E3,USR-00191,Basic,True,Chat,Resolved,Frustrated,Onboarding,Integration Help,Square Integration,My site still isn't published after completing setup. What's missing?,2025-10-14
+TKT-1DBF09F4,USR-00021,Basic,False,Email,Resolved,Frustrated,Account Access,Permissions Error,Staff Access,My staff member can't access the dashboard even though I invited them.,2026-01-13
+TKT-FB113059,USR-00170,Premium,False,Phone,In Progress,Frustrated,Account Access,Permissions Error,Admin Role,My account got locked and I don't know why.,2025-09-16
+TKT-069D6E8D,USR-00097,Basic,False,Chat,Resolved,Neutral,Online Ordering,Menu Not Updating,Price Sync,A customer said they placed an order but I never received it in my POS.,2025-10-02
+TKT-667DF2A2,USR-00014,Basic,False,Email,Resolved,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,"My online ordering page is completely broken, customers can't place orders.",2026-01-15
+TKT-12464126,USR-00043,Standard,False,Chat,Resolved,Neutral,Billing,Duplicate Charge,Subscription Upgrade Flow,There's an unexpected charge on my account from last week.,2025-09-12
+TKT-8AF8FC6F,USR-00085,Basic,True,Phone,Resolved,Angry,Account Access,Account Setup,Profile Incomplete,I can't log in. It says my password is wrong but I just reset it.,2025-12-18
+TKT-D59C6FD0,USR-00067,Premium,False,Phone,In Progress,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,My website hasn't updated since I made changes two days ago.,2025-09-22
+TKT-26C88964,USR-00107,Standard,True,Email,Open,Positive,Onboarding,Integration Help,Toast Integration,I'm trying to connect my POS but I keep getting an error during setup.,2026-01-13
+TKT-BB26195C,USR-00092,Basic,False,Chat,Resolved,Frustrated,Billing,Invoice Question,Tax Documentation,My payment failed again even though I updated my card.,2026-02-20
+TKT-25CF510A,USR-00059,Basic,True,Chat,Resolved,Positive,Marketing / SEO,Website Not Updating,Image Upload,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-10-01
+TKT-741A74F1,USR-00088,Premium,False,Phone,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,My website hasn't updated since I made changes two days ago.,2025-11-01
+TKT-6A9A76E9,USR-00038,Premium,False,Email,Resolved,Angry,Onboarding,Go-Live Issue,Ordering Not Active,My site still isn't published after completing setup. What's missing?,2026-01-08
+TKT-D26044C5,USR-00074,Standard,False,Chat,Resolved,Neutral,Marketing / SEO,Google Listing Issue,Address Incorrect,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-11-07
+TKT-FF20C28D,USR-00047,Premium,False,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,"My online ordering page is completely broken, customers can't place orders.",2025-12-28
+TKT-19882B95,USR-00157,Basic,False,Phone,Resolved,Positive,Billing,Failed Payment,Credit Card Expired,I was charged twice this month and need a refund right away.,2025-10-20
+TKT-C324EF81,USR-00141,Standard,True,Chat,In Progress,Frustrated,Account Access,Account Locked,Billing Hold,I can't log in. It says my password is wrong but I just reset it.,2025-11-27
+TKT-7B496B1B,USR-00148,Premium,False,Chat,Resolved,Frustrated,Onboarding,Integration Help,Square Integration,I need help getting my custom domain pointed to my Owner site.,2025-09-18
+TKT-BCFA1928,USR-00144,Basic,False,Email,Open,Frustrated,Billing,Failed Payment,Bank Decline,I signed up for the annual plan but I'm still being billed monthly.,2025-11-16
+TKT-CCFDFA7F,USR-00172,Premium,False,Email,Resolved,Frustrated,Account Access,Account Locked,Suspicious Activity,My staff member can't access the dashboard even though I invited them.,2025-12-04
+TKT-8A897F61,USR-00022,Standard,True,Email,Escalated,Neutral,Account Access,Login Issue,SSO Failure,My account got locked and I don't know why.,2025-10-13
+TKT-1E88E108,USR-00168,Standard,False,Email,Resolved,Frustrated,Product / Feature,Performance Issue,Data Lag,My Square integration stopped syncing orders since the update.,2025-09-10
+TKT-DC119529,USR-00112,Standard,False,Chat,Resolved,Frustrated,Account Access,Account Locked,Too Many Attempts,I'm getting an error when trying to add a new team member.,2026-02-14
+TKT-876A0CCD,USR-00043,Standard,False,Phone,Resolved,Frustrated,Account Access,Account Locked,Billing Hold,My staff member can't access the dashboard even though I invited them.,2025-09-11
+TKT-14C36606,USR-00020,Basic,False,Chat,In Progress,Frustrated,Product / Feature,Feature Not Working,Reporting,My Square integration stopped syncing orders since the update.,2025-11-30
+TKT-30AC108E,USR-00077,Basic,False,Email,Resolved,Neutral,Marketing / SEO,Google Listing Issue,Address Incorrect,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-01-05
+TKT-8AC2EBBB,USR-00068,Standard,False,Phone,Resolved,Positive,Account Access,Login Issue,SSO Failure,I can't log in. It says my password is wrong but I just reset it.,2026-01-01
+TKT-AF67E595,USR-00085,Basic,True,Chat,In Progress,Frustrated,Marketing / SEO,SEO Performance,Review Response,The email campaign I scheduled yesterday never went out.,2025-12-07
+TKT-5911E784,USR-00076,Standard,True,Phone,Open,Neutral,Onboarding,Training Request,Dashboard Walkthrough,I'm trying to connect my POS but I keep getting an error during setup.,2025-12-14
+TKT-7B83F837,USR-00137,Basic,True,Phone,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-02-25
+TKT-EDE3D729,USR-00137,Basic,True,Email,In Progress,Neutral,Online Ordering,Ordering Disabled,Account Suspension,I updated my menu yesterday but the changes aren't showing up on my site.,2026-03-04
+TKT-4AB07564,USR-00123,Standard,True,Phone,In Progress,Angry,Onboarding,Training Request,Campaign Setup,My site still isn't published after completing setup. What's missing?,2026-02-22
+TKT-A6EB14F8,USR-00020,Basic,False,Email,In Progress,Frustrated,Product / Feature,Integration Issue,Payment Gateway,I'm not receiving any notifications when new orders come in.,2025-11-22
+TKT-B5B902F0,USR-00063,Standard,False,Email,Open,Neutral,Onboarding,Training Request,Campaign Setup,My site still isn't published after completing setup. What's missing?,2025-09-27
+TKT-F7BF0BCB,USR-00193,Premium,False,Phone,Open,Frustrated,Account Access,Account Setup,Timezone Setting,My staff member can't access the dashboard even though I invited them.,2025-10-11
+TKT-B7997F22,USR-00157,Basic,False,Phone,Resolved,Frustrated,Billing,Refund Request,Cancellation Refund,Can you send me an invoice for my records? I can't find it in the portal.,2026-02-01
+TKT-BBE4E00A,USR-00182,Basic,False,Chat,Open,Neutral,Onboarding,Integration Help,Toast Integration,I'm trying to connect my POS but I keep getting an error during setup.,2025-10-02
+TKT-0A3A7EEF,USR-00039,Basic,False,Chat,Resolved,Neutral,Account Access,Permissions Error,Admin Role,The two-factor authentication code isn't being sent to my phone.,2025-11-12
+TKT-72B20B6D,USR-00147,Basic,True,Chat,Open,Neutral,Online Ordering,Ordering Disabled,Account Suspension,A customer said they placed an order but I never received it in my POS.,2025-09-28
+TKT-DA823424,USR-00191,Basic,True,Chat,In Progress,Frustrated,Billing,Duplicate Charge,Promo Code Applied,I signed up for the annual plan but I'm still being billed monthly.,2025-12-11
+TKT-570E705A,USR-00082,Basic,False,Chat,In Progress,Neutral,Online Ordering,Order Not Received,Third-Party Integration,Ordering just stopped working on my site with no warning.,2025-10-18
+TKT-7BE94B87,USR-00059,Basic,True,Phone,Resolved,Angry,Marketing / SEO,Website Not Updating,Content Change,My business hours on Google are still showing the old times.,2026-02-09
+TKT-0F526171,USR-00070,Premium,False,Phone,Resolved,Frustrated,Online Ordering,Order Not Received,Third-Party Integration,"My online ordering page is completely broken, customers can't place orders.",2025-09-23
+TKT-D552F2A7,USR-00173,Basic,False,Email,Resolved,Angry,Product / Feature,Performance Issue,Timeout Error,I'm not receiving any notifications when new orders come in.,2025-09-14
+TKT-100FCDF2,USR-00069,Basic,True,Chat,Resolved,Frustrated,Product / Feature,Integration Issue,POS Integration,"Everything is really slow today, pages take forever to load.",2025-12-18
+TKT-F26335B3,USR-00125,Basic,False,Phone,Resolved,Positive,Onboarding,Go-Live Issue,Site Not Published,My site still isn't published after completing setup. What's missing?,2026-02-12
+TKT-93DEC853,USR-00055,Basic,False,Email,Open,Angry,Marketing / SEO,Campaign Not Running,Email Campaign,My website hasn't updated since I made changes two days ago.,2026-02-12
+TKT-DE577C3D,USR-00071,Standard,False,Chat,Resolved,Frustrated,Billing,Invoice Question,Monthly Summary,There's an unexpected charge on my account from last week.,2026-02-19
+TKT-82C05FAE,USR-00014,Basic,False,Email,In Progress,Neutral,Product / Feature,Feature Request,Custom Branding,My Square integration stopped syncing orders since the update.,2025-09-22
+TKT-B344DEBE,USR-00018,Basic,False,Phone,In Progress,Frustrated,Onboarding,Integration Help,Clover Integration,My site still isn't published after completing setup. What's missing?,2026-02-16
+TKT-D8E464EF,USR-00014,Basic,False,Phone,Resolved,Neutral,Onboarding,Integration Help,Clover Integration,I'm trying to connect my POS but I keep getting an error during setup.,2025-11-25
+TKT-1B30B962,USR-00072,Premium,True,Phone,In Progress,Neutral,Product / Feature,Feature Request,API Access,I'm not receiving any notifications when new orders come in.,2025-11-29
+TKT-0B7A58F3,USR-00096,Standard,False,Email,Resolved,Frustrated,Billing,Duplicate Charge,Promo Code Applied,My payment failed again even though I updated my card.,2026-01-01
+TKT-27AF5614,USR-00163,Premium,False,Email,Resolved,Angry,Account Access,Login Issue,2FA Problem,My account got locked and I don't know why.,2025-11-09
+TKT-F82809FE,USR-00079,Standard,False,Phone,Resolved,Frustrated,Product / Feature,Integration Issue,Third-Party App,The reporting dashboard isn't loading for me at all.,2026-03-04
+TKT-FA438A63,USR-00035,Basic,False,Phone,In Progress,Frustrated,Product / Feature,Feature Not Working,Reporting,I've been asking for multi-location support for months. Any update?,2025-09-10
+TKT-CD5A4550,USR-00140,Premium,False,Email,Escalated,Positive,Product / Feature,Performance Issue,Slow Load Time,The reporting dashboard isn't loading for me at all.,2025-10-14
+TKT-2A6AC4B5,USR-00178,Standard,False,Email,In Progress,Positive,Marketing / SEO,Website Not Updating,Image Upload,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-11-09
+TKT-A9E3F4FC,USR-00014,Basic,False,Email,Resolved,Angry,Account Access,Permissions Error,Staff Access,My staff member can't access the dashboard even though I invited them.,2026-03-03
+TKT-F0A44AE0,USR-00200,Standard,False,Phone,Resolved,Neutral,Product / Feature,Feature Request,Multi-Location,The reporting dashboard isn't loading for me at all.,2026-01-27
+TKT-60E8A4A6,USR-00154,Basic,True,Phone,Resolved,Frustrated,Product / Feature,Feature Not Working,Dashboard,"Everything is really slow today, pages take forever to load.",2025-10-01
+TKT-FB04C872,USR-00107,Standard,True,Phone,Resolved,Neutral,Account Access,Login Issue,Password Reset,My account got locked and I don't know why.,2025-10-21
+TKT-08E0189F,USR-00044,Premium,True,Email,Resolved,Angry,Billing,Failed Payment,Bank Decline,There's an unexpected charge on my account from last week.,2026-01-06
+TKT-DDB3DF8A,USR-00168,Standard,False,Phone,Escalated,Angry,Billing,Duplicate Charge,Promo Code Applied,Can you send me an invoice for my records? I can't find it in the portal.,2025-12-10
+TKT-A31751F5,USR-00164,Premium,True,Phone,Resolved,Frustrated,Online Ordering,Menu Not Updating,Category Order,Ordering just stopped working on my site with no warning.,2025-11-13
+TKT-E2266BEF,USR-00182,Basic,False,Phone,Resolved,Angry,Online Ordering,Ordering Disabled,Account Suspension,A customer said they placed an order but I never received it in my POS.,2025-11-17
+TKT-F53B3A6A,USR-00043,Standard,False,Email,Resolved,Frustrated,Account Access,Account Setup,Profile Incomplete,I can't log in. It says my password is wrong but I just reset it.,2026-01-08
+TKT-03077C3D,USR-00027,Standard,True,Chat,Open,Frustrated,Account Access,Account Locked,Billing Hold,My staff member can't access the dashboard even though I invited them.,2026-03-06
+TKT-9548D4E4,USR-00142,Standard,False,Email,In Progress,Frustrated,Product / Feature,Integration Issue,POS Integration,My Square integration stopped syncing orders since the update.,2025-12-19
+TKT-A4BD006D,USR-00061,Premium,True,Email,In Progress,Angry,Billing,Refund Request,Cancellation Refund,I was charged twice this month and need a refund right away.,2025-12-20
+TKT-636BFBAC,USR-00109,Basic,False,Phone,In Progress,Frustrated,Billing,Invoice Question,Monthly Summary,Can you send me an invoice for my records? I can't find it in the portal.,2026-02-18
+TKT-5C6877B5,USR-00193,Premium,False,Phone,In Progress,Positive,Marketing / SEO,Google Listing Issue,Address Incorrect,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-09-22
+TKT-EF0044EB,USR-00012,Premium,False,Phone,Resolved,Frustrated,Online Ordering,Page Not Loading,Mobile Browser,"My online ordering page is completely broken, customers can't place orders.",2025-12-19
+TKT-223B958E,USR-00172,Premium,False,Phone,Resolved,Frustrated,Account Access,Login Issue,2FA Problem,My account got locked and I don't know why.,2025-11-12
+TKT-E8BD7379,USR-00127,Basic,False,Chat,In Progress,Positive,Billing,Invoice Question,Annual Billing,Can you send me an invoice for my records? I can't find it in the portal.,2025-11-04
+TKT-07ADB6EF,USR-00168,Standard,False,Email,Open,Frustrated,Onboarding,Setup Confusion,Domain Setup,I need help getting my custom domain pointed to my Owner site.,2025-12-29
+TKT-6256EB2E,USR-00191,Basic,True,Chat,In Progress,Frustrated,Online Ordering,Menu Not Updating,Item Availability,"My online ordering page is completely broken, customers can't place orders.",2025-10-13
+TKT-E966B4AB,USR-00161,Standard,False,Email,Open,Angry,Online Ordering,Order Not Received,Notification Failure,The checkout page keeps throwing an error on mobile devices.,2025-09-24
+TKT-50438C1A,USR-00118,Premium,False,Phone,In Progress,Angry,Billing,Failed Payment,Bank Decline,Can you send me an invoice for my records? I can't find it in the portal.,2025-10-16
+TKT-14F9341A,USR-00097,Basic,False,Email,In Progress,Neutral,Online Ordering,Order Not Received,POS Sync,Ordering just stopped working on my site with no warning.,2026-01-07
+TKT-A1FCCC67,USR-00154,Basic,True,Email,In Progress,Angry,Product / Feature,Integration Issue,POS Integration,"Everything is really slow today, pages take forever to load.",2026-02-16
+TKT-C1F681A6,USR-00033,Basic,True,Email,Resolved,Angry,Billing,Refund Request,Trial Extension,I was charged twice this month and need a refund right away.,2025-09-24
+TKT-9BEB6F98,USR-00037,Premium,False,Phone,Resolved,Positive,Account Access,Account Setup,New User Invite,I'm getting an error when trying to add a new team member.,2025-12-02
+TKT-78972161,USR-00093,Premium,True,Chat,Escalated,Neutral,Online Ordering,Order Not Received,Third-Party Integration,The checkout page keeps throwing an error on mobile devices.,2026-02-16
+TKT-23BF7648,USR-00092,Basic,False,Email,In Progress,Angry,Marketing / SEO,SEO Performance,Keyword Targeting,The email campaign I scheduled yesterday never went out.,2025-12-28
+TKT-C25B3472,USR-00164,Premium,True,Phone,Resolved,Angry,Billing,Duplicate Charge,Subscription Upgrade Flow,I signed up for the annual plan but I'm still being billed monthly.,2026-03-09
+TKT-E5CAC0AC,USR-00092,Basic,False,Phone,In Progress,Neutral,Product / Feature,Integration Issue,POS Integration,"Everything is really slow today, pages take forever to load.",2025-11-21
+TKT-A139D9A1,USR-00004,Basic,False,Phone,Resolved,Frustrated,Online Ordering,Menu Not Updating,Category Order,Ordering just stopped working on my site with no warning.,2025-10-11
+TKT-354D440B,USR-00085,Basic,True,Chat,Escalated,Frustrated,Product / Feature,Feature Request,API Access,I'm not receiving any notifications when new orders come in.,2025-10-19
+TKT-C91709A6,USR-00020,Basic,False,Email,Resolved,Frustrated,Billing,Failed Payment,Credit Card Expired,My payment failed again even though I updated my card.,2026-02-21
+TKT-9F2AEBC5,USR-00069,Basic,True,Email,Open,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,A customer said they placed an order but I never received it in my POS.,2025-12-25
+TKT-31675711,USR-00100,Basic,False,Phone,In Progress,Frustrated,Product / Feature,Feature Not Working,Reporting,The reporting dashboard isn't loading for me at all.,2025-12-05
+TKT-E08F8D26,USR-00107,Standard,True,Chat,Resolved,Neutral,Billing,Failed Payment,Insufficient Funds,I signed up for the annual plan but I'm still being billed monthly.,2026-02-19
+TKT-006048EB,USR-00061,Premium,True,Email,Open,Frustrated,Onboarding,Go-Live Issue,Listing Not Live,My site still isn't published after completing setup. What's missing?,2025-11-12
+TKT-EB19DE8D,USR-00041,Standard,False,Phone,Open,Angry,Onboarding,Integration Help,Clover Integration,I'm trying to connect my POS but I keep getting an error during setup.,2025-11-17
+TKT-D2B16561,USR-00150,Basic,False,Email,Escalated,Frustrated,Onboarding,Setup Confusion,POS Connection,How do I import my existing menu? I can't figure out the format.,2025-09-16
+TKT-F970C2AC,USR-00004,Basic,False,Chat,Resolved,Angry,Online Ordering,Order Not Received,Third-Party Integration,I updated my menu yesterday but the changes aren't showing up on my site.,2026-02-21
+TKT-748DA8D3,USR-00097,Basic,False,Chat,Escalated,Neutral,Billing,Refund Request,Cancellation Refund,I signed up for the annual plan but I'm still being billed monthly.,2025-10-31
+TKT-4B2AF469,USR-00107,Standard,True,Phone,Resolved,Frustrated,Billing,Failed Payment,Credit Card Expired,There's an unexpected charge on my account from last week.,2025-09-24
+TKT-9CBEA3FF,USR-00021,Basic,False,Email,Escalated,Frustrated,Marketing / SEO,Google Listing Issue,Address Incorrect,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-12-10
+TKT-7197D8F1,USR-00042,Basic,True,Phone,Escalated,Frustrated,Billing,Invoice Question,Annual Billing,Can you send me an invoice for my records? I can't find it in the portal.,2026-02-10
+TKT-2AAF9E23,USR-00194,Basic,True,Chat,Resolved,Frustrated,Account Access,Login Issue,SSO Failure,My staff member can't access the dashboard even though I invited them.,2026-03-04
+TKT-E768F2AE,USR-00042,Basic,True,Chat,Open,Positive,Onboarding,Go-Live Issue,Listing Not Live,How do I import my existing menu? I can't figure out the format.,2025-10-23
+TKT-A5D1EA26,USR-00166,Basic,False,Email,Resolved,Angry,Onboarding,Setup Confusion,POS Connection,My site still isn't published after completing setup. What's missing?,2026-01-31
+TKT-80242945,USR-00137,Basic,True,Email,Resolved,Frustrated,Account Access,Permissions Error,Staff Access,My account got locked and I don't know why.,2025-09-27
+TKT-326E0E22,USR-00194,Basic,True,Chat,In Progress,Angry,Onboarding,Training Request,Reporting Tutorial,I'm trying to connect my POS but I keep getting an error during setup.,2025-12-12
+TKT-24A24EB8,USR-00113,Basic,False,Email,Escalated,Angry,Account Access,Account Locked,Too Many Attempts,I can't log in. It says my password is wrong but I just reset it.,2025-11-16
+TKT-D3E41C23,USR-00127,Basic,False,Phone,Resolved,Neutral,Onboarding,Setup Confusion,POS Connection,I need help getting my custom domain pointed to my Owner site.,2025-12-17
+TKT-6839E4DD,USR-00180,Basic,True,Email,Resolved,Frustrated,Online Ordering,Ordering Disabled,Integration Error,"My online ordering page is completely broken, customers can't place orders.",2025-09-16
+TKT-A2461DF7,USR-00069,Basic,True,Chat,Resolved,Frustrated,Online Ordering,Ordering Disabled,Integration Error,The checkout page keeps throwing an error on mobile devices.,2026-02-14
+TKT-378F98B7,USR-00125,Basic,False,Chat,Resolved,Frustrated,Billing,Invoice Question,Tax Documentation,I signed up for the annual plan but I'm still being billed monthly.,2026-03-06
+TKT-D34A28E9,USR-00121,Premium,True,Chat,Resolved,Positive,Marketing / SEO,SEO Performance,Review Response,My website hasn't updated since I made changes two days ago.,2025-11-04
+TKT-CB215288,USR-00117,Basic,False,Chat,Open,Frustrated,Account Access,Permissions Error,Staff Access,My account got locked and I don't know why.,2026-01-31
+TKT-A45F6E43,USR-00066,Standard,False,Email,Open,Neutral,Marketing / SEO,SEO Performance,Review Response,My business hours on Google are still showing the old times.,2025-11-28
+TKT-E8224CCE,USR-00164,Premium,True,Phone,Escalated,Frustrated,Online Ordering,Ordering Disabled,Setup Incomplete,A customer said they placed an order but I never received it in my POS.,2025-09-12
+TKT-1E8FB82C,USR-00036,Basic,False,Phone,Resolved,Frustrated,Account Access,Account Setup,Profile Incomplete,My account got locked and I don't know why.,2025-12-17
+TKT-777E9060,USR-00161,Standard,False,Chat,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,My business hours on Google are still showing the old times.,2026-01-01
+TKT-0BEE165D,USR-00113,Basic,False,Email,Escalated,Neutral,Billing,Failed Payment,Insufficient Funds,My payment failed again even though I updated my card.,2025-11-28
+TKT-1024672D,USR-00054,Premium,False,Chat,Resolved,Frustrated,Online Ordering,Order Not Received,Notification Failure,A customer said they placed an order but I never received it in my POS.,2026-02-24
+TKT-DFE01B07,USR-00008,Basic,False,Chat,In Progress,Neutral,Marketing / SEO,Google Listing Issue,Hours Not Updating,My website hasn't updated since I made changes two days ago.,2026-02-04
+TKT-CE972B18,USR-00130,Basic,False,Chat,Escalated,Frustrated,Account Access,Account Locked,Suspicious Activity,I can't log in. It says my password is wrong but I just reset it.,2025-09-27
+TKT-C2C14217,USR-00080,Basic,False,Email,Resolved,Frustrated,Account Access,Login Issue,SSO Failure,I'm getting an error when trying to add a new team member.,2026-02-22
+TKT-8F685CFF,USR-00083,Standard,False,Chat,Resolved,Neutral,Account Access,Permissions Error,Admin Role,My staff member can't access the dashboard even though I invited them.,2025-11-14
+TKT-14F43A13,USR-00085,Basic,True,Email,Resolved,Neutral,Marketing / SEO,Campaign Not Running,SMS Campaign,My website hasn't updated since I made changes two days ago.,2026-01-06
+TKT-D381F44D,USR-00002,Standard,False,Chat,Open,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,The email campaign I scheduled yesterday never went out.,2025-12-24
+TKT-0D18C187,USR-00120,Premium,False,Email,In Progress,Angry,Online Ordering,Menu Not Updating,Price Sync,"My online ordering page is completely broken, customers can't place orders.",2025-12-18
+TKT-72D90EDC,USR-00064,Standard,False,Email,In Progress,Positive,Billing,Failed Payment,Bank Decline,I signed up for the annual plan but I'm still being billed monthly.,2025-09-25
+TKT-D4448BFD,USR-00012,Premium,False,Chat,Resolved,Neutral,Billing,Failed Payment,Bank Decline,Can you send me an invoice for my records? I can't find it in the portal.,2026-01-06
+TKT-748B6F74,USR-00119,Basic,False,Chat,Resolved,Positive,Marketing / SEO,Google Listing Issue,Hours Not Updating,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-01-26
+TKT-91C52903,USR-00162,Standard,False,Email,Resolved,Frustrated,Online Ordering,Menu Not Updating,Item Availability,A customer said they placed an order but I never received it in my POS.,2025-11-23
+TKT-8B6AB808,USR-00187,Premium,False,Chat,Open,Neutral,Marketing / SEO,Google Listing Issue,Address Incorrect,My website hasn't updated since I made changes two days ago.,2025-09-14
+TKT-E3A1B0FA,USR-00082,Basic,False,Email,Resolved,Neutral,Onboarding,Setup Confusion,POS Connection,I'm trying to connect my POS but I keep getting an error during setup.,2026-02-23
+TKT-EFA6EEB5,USR-00031,Basic,False,Email,Resolved,Frustrated,Onboarding,Integration Help,Toast Integration,Can someone walk me through how to set up my first email campaign?,2025-10-21
+TKT-C8E2C732,USR-00178,Standard,False,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Integration Error,Ordering just stopped working on my site with no warning.,2025-12-20
+TKT-21FBA31D,USR-00045,Basic,True,Email,In Progress,Positive,Onboarding,Setup Confusion,Domain Setup,My site still isn't published after completing setup. What's missing?,2026-01-31
+TKT-02F3BF8F,USR-00016,Basic,False,Email,Resolved,Neutral,Product / Feature,Feature Not Working,Notifications,I'm not receiving any notifications when new orders come in.,2026-03-09
+TKT-927D749A,USR-00120,Premium,False,Phone,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,Email Campaign,The email campaign I scheduled yesterday never went out.,2025-09-15
+TKT-3451FF94,USR-00134,Premium,False,Email,Resolved,Angry,Billing,Invoice Question,Annual Billing,My payment failed again even though I updated my card.,2026-01-28
+TKT-49CFA866,USR-00099,Premium,True,Email,Resolved,Angry,Marketing / SEO,SEO Performance,Ranking Drop,The email campaign I scheduled yesterday never went out.,2026-01-08
+TKT-A5BEC3DF,USR-00111,Basic,False,Phone,In Progress,Angry,Billing,Refund Request,Cancellation Refund,I signed up for the annual plan but I'm still being billed monthly.,2026-01-16
+TKT-90070725,USR-00158,Premium,False,Chat,In Progress,Neutral,Account Access,Account Locked,Suspicious Activity,I'm getting an error when trying to add a new team member.,2026-01-12
+TKT-6FD85FF4,USR-00110,Premium,False,Chat,Open,Positive,Product / Feature,Performance Issue,Timeout Error,"Everything is really slow today, pages take forever to load.",2026-01-17
+TKT-E65C7081,USR-00072,Premium,True,Chat,Resolved,Neutral,Account Access,Login Issue,SSO Failure,I can't log in. It says my password is wrong but I just reset it.,2025-10-28
+TKT-0BD8178E,USR-00153,Standard,True,Chat,Open,Frustrated,Marketing / SEO,SEO Performance,Ranking Drop,My website hasn't updated since I made changes two days ago.,2025-11-10
+TKT-9A210B5A,USR-00141,Standard,True,Chat,Resolved,Frustrated,Product / Feature,Integration Issue,Payment Gateway,My Square integration stopped syncing orders since the update.,2025-09-24
+TKT-DC9474A3,USR-00135,Standard,False,Chat,Resolved,Frustrated,Online Ordering,Ordering Disabled,Integration Error,The checkout page keeps throwing an error on mobile devices.,2026-02-28
+TKT-1938786E,USR-00067,Premium,False,Email,In Progress,Neutral,Product / Feature,Feature Not Working,Dashboard,I'm not receiving any notifications when new orders come in.,2026-01-11
+TKT-3FE2D6CF,USR-00051,Standard,False,Chat,Escalated,Frustrated,Billing,Invoice Question,Tax Documentation,I was charged twice this month and need a refund right away.,2025-12-19
+TKT-816B6510,USR-00033,Basic,True,Chat,Resolved,Angry,Marketing / SEO,SEO Performance,Review Response,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-03-09
+TKT-625120FA,USR-00184,Premium,False,Phone,In Progress,Frustrated,Account Access,Permissions Error,Read-Only Mode,My account got locked and I don't know why.,2026-02-13
+TKT-FA2CFCC1,USR-00171,Premium,True,Phone,Resolved,Frustrated,Online Ordering,Page Not Loading,Checkout Flow,"My online ordering page is completely broken, customers can't place orders.",2026-03-08
+TKT-FB294758,USR-00132,Basic,False,Email,Resolved,Neutral,Online Ordering,Order Not Received,POS Sync,"My online ordering page is completely broken, customers can't place orders.",2025-12-21
+TKT-5B169F19,USR-00160,Standard,False,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,I updated my menu yesterday but the changes aren't showing up on my site.,2026-01-31
+TKT-6A1BFAC1,USR-00108,Standard,True,Chat,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Address Incorrect,My business hours on Google are still showing the old times.,2025-12-07
+TKT-4FDE14A4,USR-00107,Standard,True,Phone,Resolved,Frustrated,Marketing / SEO,Website Not Updating,Domain Issue,My business hours on Google are still showing the old times.,2025-09-25
+TKT-8C309C71,USR-00153,Standard,True,Email,Resolved,Neutral,Account Access,Account Setup,New User Invite,My account got locked and I don't know why.,2025-12-15
+TKT-650BC09E,USR-00162,Standard,False,Chat,Resolved,Frustrated,Online Ordering,Ordering Disabled,Setup Incomplete,A customer said they placed an order but I never received it in my POS.,2026-03-08
+TKT-DFE0D55E,USR-00145,Premium,False,Phone,Resolved,Frustrated,Product / Feature,Performance Issue,Data Lag,I'm not receiving any notifications when new orders come in.,2025-11-14
+TKT-2C714D3B,USR-00056,Basic,True,Email,In Progress,Neutral,Account Access,Account Locked,Billing Hold,I'm getting an error when trying to add a new team member.,2025-11-09
+TKT-CEC60A82,USR-00115,Basic,False,Phone,Resolved,Frustrated,Account Access,Permissions Error,Read-Only Mode,My account got locked and I don't know why.,2026-02-15
+TKT-2EAEA8A2,USR-00005,Standard,False,Phone,In Progress,Frustrated,Onboarding,Setup Confusion,Menu Import,Can someone walk me through how to set up my first email campaign?,2025-12-24
+TKT-7F08E9CA,USR-00108,Standard,True,Email,In Progress,Positive,Onboarding,Setup Confusion,POS Connection,Can someone walk me through how to set up my first email campaign?,2025-11-09
+TKT-A2426353,USR-00032,Basic,True,Chat,Resolved,Angry,Billing,Invoice Question,Tax Documentation,Can you send me an invoice for my records? I can't find it in the portal.,2025-11-03
+TKT-E7B1D5E3,USR-00097,Basic,False,Phone,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,GMB Sync,My ranking on Google dropped significantly this month. What happened?,2025-10-08
+TKT-AF452080,USR-00024,Standard,False,Chat,Resolved,Angry,Product / Feature,Feature Request,API Access,I'm not receiving any notifications when new orders come in.,2025-10-23
+TKT-7081C2B1,USR-00012,Premium,False,Chat,Open,Neutral,Marketing / SEO,Website Not Updating,Domain Issue,My ranking on Google dropped significantly this month. What happened?,2025-09-25
+TKT-1E8D9807,USR-00078,Basic,False,Email,In Progress,Frustrated,Marketing / SEO,SEO Performance,Review Response,My business hours on Google are still showing the old times.,2025-12-07
+TKT-7E22B938,USR-00043,Standard,False,Email,In Progress,Positive,Marketing / SEO,Campaign Not Running,Email Campaign,My website hasn't updated since I made changes two days ago.,2025-11-03
+TKT-3600873D,USR-00050,Standard,False,Email,In Progress,Neutral,Marketing / SEO,Website Not Updating,Domain Issue,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-09-17
+TKT-A99D2E82,USR-00145,Premium,False,Chat,Resolved,Angry,Account Access,Permissions Error,Read-Only Mode,I'm getting an error when trying to add a new team member.,2026-01-11
+TKT-E52CFFC9,USR-00047,Premium,False,Email,Resolved,Neutral,Onboarding,Setup Confusion,Domain Setup,Can someone walk me through how to set up my first email campaign?,2026-01-14
+TKT-EDA8BEC7,USR-00117,Basic,False,Email,Resolved,Neutral,Product / Feature,Feature Not Working,Notifications,"Everything is really slow today, pages take forever to load.",2025-11-18
+TKT-CCC41CB8,USR-00133,Standard,False,Phone,Resolved,Neutral,Billing,Invoice Question,Monthly Summary,There's an unexpected charge on my account from last week.,2025-12-23
+TKT-864B613A,USR-00195,Basic,False,Phone,Escalated,Frustrated,Onboarding,Integration Help,Toast Integration,I need help getting my custom domain pointed to my Owner site.,2025-12-18
+TKT-649D7A98,USR-00175,Basic,False,Chat,Open,Neutral,Onboarding,Training Request,Campaign Setup,I'm trying to connect my POS but I keep getting an error during setup.,2026-02-21
+TKT-9FDA2D93,USR-00025,Basic,False,Chat,In Progress,Frustrated,Account Access,Account Setup,Profile Incomplete,I can't log in. It says my password is wrong but I just reset it.,2026-01-14
+TKT-7C91BCA6,USR-00101,Standard,False,Chat,In Progress,Angry,Product / Feature,Feature Request,API Access,I've been asking for multi-location support for months. Any update?,2025-12-29
+TKT-60B9EE4E,USR-00064,Standard,False,Email,Resolved,Positive,Marketing / SEO,SEO Performance,Review Response,My business hours on Google are still showing the old times.,2025-12-05
+TKT-8A10879A,USR-00106,Standard,False,Email,Resolved,Frustrated,Marketing / SEO,Website Not Updating,Content Change,My ranking on Google dropped significantly this month. What happened?,2025-10-07
+TKT-EA6EEF17,USR-00179,Basic,True,Chat,Resolved,Neutral,Online Ordering,Page Not Loading,Menu Display,A customer said they placed an order but I never received it in my POS.,2026-01-09
+TKT-1C0D3677,USR-00151,Basic,False,Phone,Resolved,Neutral,Online Ordering,Page Not Loading,Menu Display,The checkout page keeps throwing an error on mobile devices.,2026-01-11
+TKT-3E0AA6D6,USR-00082,Basic,False,Phone,Resolved,Frustrated,Online Ordering,Order Not Received,Third-Party Integration,Ordering just stopped working on my site with no warning.,2025-12-17
+TKT-B3D27033,USR-00170,Premium,False,Chat,Open,Neutral,Onboarding,Go-Live Issue,Listing Not Live,I'm trying to connect my POS but I keep getting an error during setup.,2025-09-28
+TKT-3C373576,USR-00122,Standard,True,Chat,Resolved,Angry,Online Ordering,Order Not Received,Third-Party Integration,The checkout page keeps throwing an error on mobile devices.,2025-11-09
+TKT-E0843D99,USR-00091,Premium,False,Chat,Resolved,Neutral,Product / Feature,Performance Issue,Timeout Error,I'm not receiving any notifications when new orders come in.,2025-09-13
+TKT-C67F7CC1,USR-00046,Premium,False,Email,Resolved,Angry,Online Ordering,Ordering Disabled,Account Suspension,"My online ordering page is completely broken, customers can't place orders.",2025-12-04
+TKT-44360342,USR-00078,Basic,False,Chat,Resolved,Frustrated,Onboarding,Training Request,Campaign Setup,I'm trying to connect my POS but I keep getting an error during setup.,2026-01-12
+TKT-984CFA58,USR-00033,Basic,True,Phone,Open,Angry,Product / Feature,Performance Issue,Data Lag,My Square integration stopped syncing orders since the update.,2026-02-15
+TKT-B67C62A7,USR-00023,Standard,False,Email,Resolved,Angry,Account Access,Account Locked,Too Many Attempts,I'm getting an error when trying to add a new team member.,2025-12-07
+TKT-FDBA4992,USR-00044,Premium,True,Email,Resolved,Neutral,Online Ordering,Menu Not Updating,Item Availability,Ordering just stopped working on my site with no warning.,2026-01-09
+TKT-7C6EB4A9,USR-00038,Premium,False,Email,In Progress,Angry,Billing,Invoice Question,Monthly Summary,Can you send me an invoice for my records? I can't find it in the portal.,2026-02-23
+TKT-86F8E2D4,USR-00013,Standard,False,Chat,Resolved,Neutral,Account Access,Account Setup,Profile Incomplete,I can't log in. It says my password is wrong but I just reset it.,2026-02-26
+TKT-58A10CE3,USR-00141,Standard,True,Email,Open,Angry,Online Ordering,Page Not Loading,Checkout Flow,"My online ordering page is completely broken, customers can't place orders.",2025-10-09
+TKT-CB1399C6,USR-00183,Standard,False,Chat,Resolved,Neutral,Marketing / SEO,Website Not Updating,Content Change,My business hours on Google are still showing the old times.,2025-10-22
+TKT-B14250CF,USR-00089,Premium,False,Chat,Resolved,Frustrated,Marketing / SEO,Website Not Updating,Image Upload,My website hasn't updated since I made changes two days ago.,2026-02-14
+TKT-C3E1F4DA,USR-00001,Standard,True,Phone,Open,Frustrated,Online Ordering,Menu Not Updating,Category Order,"My online ordering page is completely broken, customers can't place orders.",2025-11-21
+TKT-1C5A86F3,USR-00086,Premium,False,Chat,Open,Angry,Billing,Duplicate Charge,Promo Code Applied,I was charged twice this month and need a refund right away.,2025-09-29
+TKT-AECE56A1,USR-00051,Standard,False,Phone,Escalated,Frustrated,Billing,Refund Request,Cancellation Refund,There's an unexpected charge on my account from last week.,2026-02-15
+TKT-A92D5528,USR-00061,Premium,True,Chat,Resolved,Frustrated,Account Access,Account Locked,Too Many Attempts,I can't log in. It says my password is wrong but I just reset it.,2026-01-24
+TKT-602FA6B9,USR-00133,Standard,False,Chat,Resolved,Angry,Product / Feature,Feature Not Working,Dashboard,I've been asking for multi-location support for months. Any update?,2025-10-15
+TKT-A22C40F2,USR-00199,Standard,False,Phone,Resolved,Angry,Billing,Duplicate Charge,Subscription Upgrade Flow,There's an unexpected charge on my account from last week.,2025-11-29
+TKT-3B264D87,USR-00079,Standard,False,Email,Resolved,Angry,Onboarding,Integration Help,Square Integration,Can someone walk me through how to set up my first email campaign?,2025-10-25
+TKT-B0FCDC4D,USR-00012,Premium,False,Phone,In Progress,Frustrated,Marketing / SEO,SEO Performance,Ranking Drop,The email campaign I scheduled yesterday never went out.,2025-09-23
+TKT-0EEEF8DB,USR-00117,Basic,False,Email,Resolved,Angry,Account Access,Permissions Error,Staff Access,The two-factor authentication code isn't being sent to my phone.,2025-09-21
+TKT-9902996D,USR-00019,Basic,True,Phone,Resolved,Neutral,Billing,Invoice Question,Annual Billing,There's an unexpected charge on my account from last week.,2025-11-27
+TKT-27B7363C,USR-00116,Basic,True,Chat,Resolved,Frustrated,Online Ordering,Menu Not Updating,Item Availability,I updated my menu yesterday but the changes aren't showing up on my site.,2026-02-23
+TKT-C762CC37,USR-00089,Premium,False,Phone,Escalated,Frustrated,Billing,Refund Request,Overcharge Refund,I signed up for the annual plan but I'm still being billed monthly.,2025-11-19
+TKT-FA0EA521,USR-00090,Basic,False,Email,Resolved,Neutral,Product / Feature,Feature Not Working,Dashboard,The reporting dashboard isn't loading for me at all.,2025-12-16
+TKT-7ADA1349,USR-00180,Basic,True,Email,In Progress,Frustrated,Billing,Refund Request,Overcharge Refund,I was charged twice this month and need a refund right away.,2026-01-04
+TKT-D6E22F3D,USR-00042,Basic,True,Email,Resolved,Angry,Onboarding,Training Request,Dashboard Walkthrough,My site still isn't published after completing setup. What's missing?,2026-01-11
+TKT-DE7CD570,USR-00026,Standard,True,Phone,Escalated,Frustrated,Online Ordering,Menu Not Updating,Item Availability,The checkout page keeps throwing an error on mobile devices.,2025-10-26
+TKT-09CB9457,USR-00126,Standard,False,Phone,Resolved,Frustrated,Online Ordering,Order Not Received,Notification Failure,I updated my menu yesterday but the changes aren't showing up on my site.,2026-02-28
+TKT-F16296CD,USR-00066,Standard,False,Email,Resolved,Frustrated,Marketing / SEO,Website Not Updating,Content Change,My website hasn't updated since I made changes two days ago.,2026-03-03
+TKT-C58386E0,USR-00062,Standard,False,Phone,Resolved,Angry,Marketing / SEO,Google Listing Issue,Address Incorrect,The email campaign I scheduled yesterday never went out.,2025-12-01
+TKT-A685562C,USR-00047,Premium,False,Chat,Resolved,Positive,Account Access,Login Issue,2FA Problem,My account got locked and I don't know why.,2025-12-20
+TKT-6708625A,USR-00065,Basic,False,Chat,Resolved,Neutral,Onboarding,Training Request,Campaign Setup,I'm trying to connect my POS but I keep getting an error during setup.,2026-01-28
+TKT-B93D0315,USR-00177,Premium,False,Phone,Escalated,Angry,Marketing / SEO,SEO Performance,Review Response,The email campaign I scheduled yesterday never went out.,2025-10-20
+TKT-F28EE99D,USR-00099,Premium,True,Email,Resolved,Frustrated,Online Ordering,Order Not Received,POS Sync,Ordering just stopped working on my site with no warning.,2026-01-16
+TKT-BF36B435,USR-00158,Premium,False,Phone,In Progress,Positive,Onboarding,Go-Live Issue,Ordering Not Active,How do I import my existing menu? I can't figure out the format.,2025-11-07
+TKT-678E5A98,USR-00007,Basic,True,Email,Resolved,Angry,Billing,Invoice Question,Monthly Summary,There's an unexpected charge on my account from last week.,2025-10-20
+TKT-20F73263,USR-00194,Basic,True,Chat,Escalated,Frustrated,Onboarding,Integration Help,Toast Integration,I need help getting my custom domain pointed to my Owner site.,2025-10-06
+TKT-E932EC1F,USR-00075,Standard,False,Chat,In Progress,Neutral,Billing,Failed Payment,Bank Decline,My payment failed again even though I updated my card.,2025-11-09
+TKT-3FAC37D3,USR-00139,Basic,False,Chat,In Progress,Angry,Account Access,Login Issue,Password Reset,I can't log in. It says my password is wrong but I just reset it.,2026-01-17
+TKT-57A0805E,USR-00030,Standard,False,Email,Resolved,Neutral,Onboarding,Integration Help,Toast Integration,I'm trying to connect my POS but I keep getting an error during setup.,2026-01-28
+TKT-6D4E600A,USR-00152,Basic,False,Phone,Open,Neutral,Onboarding,Integration Help,Toast Integration,My site still isn't published after completing setup. What's missing?,2026-01-24
+TKT-5C83CF66,USR-00093,Premium,True,Chat,In Progress,Frustrated,Marketing / SEO,Google Listing Issue,GMB Sync,My website hasn't updated since I made changes two days ago.,2025-10-04
+TKT-FF717EE7,USR-00085,Basic,True,Phone,Resolved,Angry,Product / Feature,Performance Issue,Timeout Error,My Square integration stopped syncing orders since the update.,2025-11-12
+TKT-383ABA69,USR-00073,Standard,False,Phone,Resolved,Frustrated,Onboarding,Integration Help,Clover Integration,I need help getting my custom domain pointed to my Owner site.,2025-12-03
+TKT-2A834DCB,USR-00130,Basic,False,Phone,Escalated,Positive,Marketing / SEO,Campaign Not Running,Ad Integration,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-12-04
+TKT-8F6304DC,USR-00179,Basic,True,Email,Escalated,Positive,Account Access,Account Setup,New User Invite,My account got locked and I don't know why.,2026-03-04
+TKT-7A466433,USR-00013,Standard,False,Chat,Resolved,Neutral,Billing,Refund Request,Cancellation Refund,Can you send me an invoice for my records? I can't find it in the portal.,2025-11-20
+TKT-4A1BB324,USR-00029,Premium,True,Email,Resolved,Angry,Account Access,Account Setup,Timezone Setting,The two-factor authentication code isn't being sent to my phone.,2025-12-02
+TKT-B36FF47F,USR-00166,Basic,False,Chat,Resolved,Frustrated,Marketing / SEO,SEO Performance,Keyword Targeting,The email campaign I scheduled yesterday never went out.,2025-10-18
+TKT-212B7177,USR-00054,Premium,False,Email,In Progress,Frustrated,Onboarding,Go-Live Issue,Site Not Published,Can someone walk me through how to set up my first email campaign?,2025-12-03
+TKT-71C39A38,USR-00188,Premium,False,Email,Resolved,Angry,Marketing / SEO,SEO Performance,Review Response,The email campaign I scheduled yesterday never went out.,2026-01-10
+TKT-FD78445E,USR-00069,Basic,True,Phone,Resolved,Frustrated,Onboarding,Training Request,Reporting Tutorial,I need help getting my custom domain pointed to my Owner site.,2025-12-18
+TKT-6BF106D6,USR-00174,Basic,True,Email,Open,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,My business hours on Google are still showing the old times.,2025-12-12
+TKT-3EDF11ED,USR-00188,Premium,False,Email,Open,Frustrated,Account Access,Permissions Error,Staff Access,I can't log in. It says my password is wrong but I just reset it.,2025-12-06
+TKT-E55B9FE7,USR-00168,Standard,False,Email,Resolved,Frustrated,Billing,Failed Payment,Bank Decline,I signed up for the annual plan but I'm still being billed monthly.,2025-10-28
+TKT-AD150593,USR-00099,Premium,True,Phone,Resolved,Frustrated,Online Ordering,Page Not Loading,Mobile Browser,A customer said they placed an order but I never received it in my POS.,2025-12-17
+TKT-D3808FA4,USR-00169,Basic,False,Email,Resolved,Frustrated,Billing,Duplicate Charge,Promo Code Applied,Can you send me an invoice for my records? I can't find it in the portal.,2026-01-03
+TKT-0C205C08,USR-00187,Premium,False,Phone,Open,Angry,Product / Feature,Integration Issue,POS Integration,The reporting dashboard isn't loading for me at all.,2026-02-03
+TKT-1EB82A63,USR-00174,Basic,True,Phone,Resolved,Frustrated,Account Access,Permissions Error,Admin Role,My account got locked and I don't know why.,2025-11-15
+TKT-87F940B7,USR-00041,Standard,False,Phone,Resolved,Frustrated,Online Ordering,Order Not Received,Third-Party Integration,I updated my menu yesterday but the changes aren't showing up on my site.,2025-09-22
+TKT-74443CC4,USR-00137,Basic,True,Chat,Resolved,Neutral,Marketing / SEO,Website Not Updating,Content Change,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-10-27
+TKT-64455CCC,USR-00065,Basic,False,Phone,Open,Neutral,Onboarding,Integration Help,Toast Integration,Can someone walk me through how to set up my first email campaign?,2026-01-02
+TKT-0CFD5D26,USR-00142,Standard,False,Phone,Resolved,Positive,Online Ordering,Ordering Disabled,Setup Incomplete,Ordering just stopped working on my site with no warning.,2026-02-04
+TKT-9067BBAB,USR-00111,Basic,False,Chat,Resolved,Angry,Billing,Failed Payment,Bank Decline,I signed up for the annual plan but I'm still being billed monthly.,2026-02-16
+TKT-618104B4,USR-00131,Basic,True,Phone,Resolved,Frustrated,Account Access,Permissions Error,Admin Role,My staff member can't access the dashboard even though I invited them.,2025-09-19
+TKT-42ABBD2A,USR-00103,Standard,True,Chat,Open,Angry,Billing,Refund Request,Cancellation Refund,I signed up for the annual plan but I'm still being billed monthly.,2025-12-01
+TKT-D4EE5FFC,USR-00090,Basic,False,Chat,Resolved,Neutral,Marketing / SEO,Google Listing Issue,GMB Sync,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-10-29
+TKT-FCD53560,USR-00199,Standard,False,Chat,Resolved,Angry,Online Ordering,Order Not Received,Notification Failure,The checkout page keeps throwing an error on mobile devices.,2025-11-21
+TKT-4FAFDC0A,USR-00193,Premium,False,Email,Resolved,Positive,Onboarding,Setup Confusion,Domain Setup,I need help getting my custom domain pointed to my Owner site.,2025-10-02
+TKT-CE760E9C,USR-00108,Standard,True,Email,Resolved,Angry,Online Ordering,Page Not Loading,Checkout Flow,"My online ordering page is completely broken, customers can't place orders.",2025-10-05
+TKT-26E604A0,USR-00163,Premium,False,Email,Resolved,Neutral,Account Access,Permissions Error,Staff Access,My staff member can't access the dashboard even though I invited them.,2025-11-26
+TKT-D1C86DF9,USR-00020,Basic,False,Email,Escalated,Frustrated,Onboarding,Go-Live Issue,Listing Not Live,I need help getting my custom domain pointed to my Owner site.,2025-10-24
+TKT-5D098E73,USR-00055,Basic,False,Phone,Open,Angry,Account Access,Login Issue,2FA Problem,My account got locked and I don't know why.,2025-12-03
+TKT-E34BA191,USR-00046,Premium,False,Phone,Resolved,Angry,Account Access,Account Setup,New User Invite,I can't log in. It says my password is wrong but I just reset it.,2025-10-19
+TKT-2680B3E9,USR-00161,Standard,False,Chat,In Progress,Neutral,Billing,Failed Payment,Insufficient Funds,My payment failed again even though I updated my card.,2025-09-19
+TKT-79F09428,USR-00154,Basic,True,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,I updated my menu yesterday but the changes aren't showing up on my site.,2025-11-18
+TKT-7E0BC2CC,USR-00075,Standard,False,Email,Resolved,Angry,Billing,Failed Payment,Credit Card Expired,There's an unexpected charge on my account from last week.,2025-11-08
+TKT-0CA5F9A7,USR-00183,Standard,False,Email,Resolved,Neutral,Marketing / SEO,Campaign Not Running,Email Campaign,My business hours on Google are still showing the old times.,2025-10-02
+TKT-10991716,USR-00131,Basic,True,Chat,Resolved,Frustrated,Online Ordering,Menu Not Updating,Item Availability,Ordering just stopped working on my site with no warning.,2026-03-03
+TKT-D5777B01,USR-00189,Standard,False,Chat,Resolved,Neutral,Onboarding,Go-Live Issue,Site Not Published,How do I import my existing menu? I can't figure out the format.,2026-01-30
+TKT-A1B75994,USR-00146,Standard,False,Phone,Resolved,Angry,Billing,Failed Payment,Insufficient Funds,My payment failed again even though I updated my card.,2026-02-10
+TKT-7C1B542D,USR-00147,Basic,True,Phone,Resolved,Positive,Onboarding,Integration Help,Clover Integration,I need help getting my custom domain pointed to my Owner site.,2025-12-17
+TKT-3AE2511F,USR-00076,Standard,True,Email,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,My business hours on Google are still showing the old times.,2025-11-10
+TKT-4D4588EE,USR-00072,Premium,True,Email,Escalated,Neutral,Marketing / SEO,Campaign Not Running,Email Campaign,My ranking on Google dropped significantly this month. What happened?,2025-10-11
+TKT-FCEB652F,USR-00197,Standard,False,Phone,Resolved,Neutral,Online Ordering,Menu Not Updating,Item Availability,I updated my menu yesterday but the changes aren't showing up on my site.,2025-10-05
+TKT-EB01A11A,USR-00148,Premium,False,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Integration Error,Ordering just stopped working on my site with no warning.,2025-12-19
+TKT-971F5629,USR-00032,Basic,True,Phone,Escalated,Frustrated,Billing,Duplicate Charge,Subscription Upgrade Flow,Can you send me an invoice for my records? I can't find it in the portal.,2025-11-17
+TKT-D25B5E69,USR-00098,Standard,False,Email,In Progress,Positive,Onboarding,Go-Live Issue,Listing Not Live,Can someone walk me through how to set up my first email campaign?,2025-10-21
+TKT-9F05C868,USR-00059,Basic,True,Email,Escalated,Frustrated,Product / Feature,Feature Request,API Access,My Square integration stopped syncing orders since the update.,2026-03-05
+TKT-13C2DB63,USR-00170,Premium,False,Email,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,SMS Campaign,My business hours on Google are still showing the old times.,2025-11-12
+TKT-8DF70637,USR-00122,Standard,True,Chat,In Progress,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,A customer said they placed an order but I never received it in my POS.,2025-12-31
+TKT-7930DDC1,USR-00038,Premium,False,Email,Resolved,Neutral,Onboarding,Training Request,Dashboard Walkthrough,I'm trying to connect my POS but I keep getting an error during setup.,2025-09-10
+TKT-9E5FA078,USR-00040,Basic,True,Phone,In Progress,Angry,Onboarding,Integration Help,Square Integration,My site still isn't published after completing setup. What's missing?,2025-11-21
+TKT-AD9400BD,USR-00074,Standard,False,Chat,Resolved,Neutral,Marketing / SEO,Website Not Updating,Domain Issue,The email campaign I scheduled yesterday never went out.,2025-12-29
+TKT-342ADA90,USR-00094,Basic,False,Chat,Open,Frustrated,Billing,Invoice Question,Tax Documentation,I signed up for the annual plan but I'm still being billed monthly.,2026-02-08
+TKT-A9C36D10,USR-00124,Basic,False,Email,Escalated,Neutral,Account Access,Permissions Error,Staff Access,I'm getting an error when trying to add a new team member.,2026-01-19
+TKT-F1867BAD,USR-00072,Premium,True,Phone,Resolved,Neutral,Marketing / SEO,Google Listing Issue,Hours Not Updating,The email campaign I scheduled yesterday never went out.,2025-10-12
+TKT-314D43CF,USR-00017,Standard,False,Phone,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,Email Campaign,My ranking on Google dropped significantly this month. What happened?,2025-12-23
+TKT-42E40150,USR-00116,Basic,True,Phone,In Progress,Neutral,Online Ordering,Ordering Disabled,Setup Incomplete,I updated my menu yesterday but the changes aren't showing up on my site.,2025-09-12
+TKT-9FE4BB99,USR-00129,Standard,True,Chat,Open,Neutral,Marketing / SEO,Website Not Updating,Image Upload,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-10-14
+TKT-3BFB45BD,USR-00186,Basic,False,Phone,Resolved,Frustrated,Online Ordering,Menu Not Updating,Category Order,I updated my menu yesterday but the changes aren't showing up on my site.,2026-02-10
+TKT-006513C0,USR-00087,Basic,False,Email,In Progress,Angry,Product / Feature,Integration Issue,Third-Party App,I've been asking for multi-location support for months. Any update?,2026-02-17
+TKT-2E68C0AE,USR-00168,Standard,False,Phone,In Progress,Frustrated,Marketing / SEO,Website Not Updating,Content Change,My business hours on Google are still showing the old times.,2026-01-25
+TKT-C35C0E75,USR-00013,Standard,False,Phone,Escalated,Angry,Account Access,Login Issue,SSO Failure,I can't log in. It says my password is wrong but I just reset it.,2025-10-21
+TKT-46D7BBE8,USR-00142,Standard,False,Phone,Resolved,Frustrated,Product / Feature,Feature Request,Multi-Location,"Everything is really slow today, pages take forever to load.",2025-10-18
+TKT-92976D61,USR-00033,Basic,True,Chat,Resolved,Neutral,Onboarding,Go-Live Issue,Ordering Not Active,I'm trying to connect my POS but I keep getting an error during setup.,2025-11-02
+TKT-E89E3630,USR-00116,Basic,True,Phone,Open,Angry,Marketing / SEO,Google Listing Issue,Hours Not Updating,My ranking on Google dropped significantly this month. What happened?,2026-01-20
+TKT-E5DFC747,USR-00188,Premium,False,Email,Resolved,Angry,Online Ordering,Page Not Loading,Mobile Browser,A customer said they placed an order but I never received it in my POS.,2025-09-14
+TKT-C3BA2C72,USR-00180,Basic,True,Chat,In Progress,Neutral,Product / Feature,Feature Not Working,Dashboard,I've been asking for multi-location support for months. Any update?,2026-03-01
+TKT-1C30F0DF,USR-00163,Premium,False,Phone,Resolved,Frustrated,Onboarding,Go-Live Issue,Ordering Not Active,I need help getting my custom domain pointed to my Owner site.,2026-03-04
+TKT-19AC0D8E,USR-00071,Standard,False,Chat,Resolved,Angry,Online Ordering,Page Not Loading,Menu Display,A customer said they placed an order but I never received it in my POS.,2025-12-06
+TKT-889F0407,USR-00096,Standard,False,Email,In Progress,Frustrated,Product / Feature,Integration Issue,Payment Gateway,The reporting dashboard isn't loading for me at all.,2025-09-10
+TKT-068C33B4,USR-00090,Basic,False,Email,Resolved,Neutral,Product / Feature,Feature Not Working,Notifications,My Square integration stopped syncing orders since the update.,2025-10-17
+TKT-042EA2A1,USR-00182,Basic,False,Phone,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,GMB Sync,My ranking on Google dropped significantly this month. What happened?,2026-02-10
+TKT-4D88648D,USR-00030,Standard,False,Email,In Progress,Frustrated,Billing,Invoice Question,Annual Billing,There's an unexpected charge on my account from last week.,2025-09-10
+TKT-E89E2153,USR-00062,Standard,False,Phone,Resolved,Frustrated,Billing,Duplicate Charge,Payment Method Update,Can you send me an invoice for my records? I can't find it in the portal.,2026-01-26
+TKT-D25B68B3,USR-00068,Standard,False,Phone,Resolved,Frustrated,Account Access,Account Locked,Billing Hold,My account got locked and I don't know why.,2025-11-13
+TKT-8B6E6DC4,USR-00122,Standard,True,Chat,Resolved,Neutral,Product / Feature,Performance Issue,Slow Load Time,I'm not receiving any notifications when new orders come in.,2025-12-05
+TKT-E36FEC67,USR-00010,Basic,False,Chat,In Progress,Positive,Product / Feature,Feature Not Working,Dashboard,My Square integration stopped syncing orders since the update.,2025-11-13
+TKT-01CD5064,USR-00062,Standard,False,Email,Resolved,Neutral,Product / Feature,Performance Issue,Slow Load Time,I've been asking for multi-location support for months. Any update?,2025-12-15
+TKT-5FFC863B,USR-00018,Basic,False,Email,Resolved,Frustrated,Marketing / SEO,SEO Performance,Ranking Drop,My website hasn't updated since I made changes two days ago.,2026-01-31
+TKT-81E386A1,USR-00101,Standard,False,Chat,In Progress,Angry,Account Access,Account Setup,New User Invite,I'm getting an error when trying to add a new team member.,2025-12-27
+TKT-7A9ADD73,USR-00074,Standard,False,Chat,Resolved,Neutral,Marketing / SEO,Google Listing Issue,Hours Not Updating,My business hours on Google are still showing the old times.,2026-01-31
+TKT-8670E12C,USR-00006,Standard,False,Chat,Resolved,Angry,Account Access,Permissions Error,Read-Only Mode,I can't log in. It says my password is wrong but I just reset it.,2025-10-31
+TKT-224C2A1B,USR-00175,Basic,False,Email,Open,Neutral,Onboarding,Go-Live Issue,Ordering Not Active,I need help getting my custom domain pointed to my Owner site.,2026-01-08
+TKT-9F387595,USR-00009,Standard,False,Email,Resolved,Angry,Online Ordering,Order Not Received,Notification Failure,I updated my menu yesterday but the changes aren't showing up on my site.,2025-10-20
+TKT-8FAA6F55,USR-00153,Standard,True,Phone,In Progress,Neutral,Account Access,Permissions Error,Staff Access,The two-factor authentication code isn't being sent to my phone.,2025-10-21
+TKT-36453D7D,USR-00084,Premium,True,Email,In Progress,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,My business hours on Google are still showing the old times.,2025-10-10
+TKT-A86FCBD0,USR-00144,Basic,False,Email,Escalated,Frustrated,Account Access,Account Setup,New User Invite,I'm getting an error when trying to add a new team member.,2025-09-23
+TKT-06F3F539,USR-00093,Premium,True,Phone,Resolved,Angry,Account Access,Account Setup,Timezone Setting,The two-factor authentication code isn't being sent to my phone.,2026-02-28
+TKT-8819493A,USR-00113,Basic,False,Phone,Escalated,Frustrated,Online Ordering,Menu Not Updating,Item Availability,The checkout page keeps throwing an error on mobile devices.,2026-02-16
+TKT-0F1AF032,USR-00158,Premium,False,Chat,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,SMS Campaign,My ranking on Google dropped significantly this month. What happened?,2026-01-29
+TKT-DE790E59,USR-00028,Premium,False,Email,In Progress,Frustrated,Product / Feature,Integration Issue,POS Integration,I'm not receiving any notifications when new orders come in.,2025-10-16
+TKT-CCF6C9A6,USR-00042,Basic,True,Chat,Escalated,Angry,Account Access,Account Locked,Too Many Attempts,My account got locked and I don't know why.,2025-12-24
+TKT-45A6701F,USR-00088,Premium,False,Email,Escalated,Frustrated,Billing,Failed Payment,Credit Card Expired,There's an unexpected charge on my account from last week.,2025-09-15
+TKT-0D8F4B80,USR-00046,Premium,False,Chat,In Progress,Angry,Onboarding,Integration Help,Toast Integration,My site still isn't published after completing setup. What's missing?,2025-11-13
+TKT-3D0E7500,USR-00022,Standard,True,Phone,Resolved,Positive,Onboarding,Go-Live Issue,Ordering Not Active,I need help getting my custom domain pointed to my Owner site.,2026-01-06
+TKT-9A4C0BFD,USR-00044,Premium,True,Chat,Resolved,Neutral,Marketing / SEO,Website Not Updating,Content Change,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-01-08
+TKT-718E8092,USR-00111,Basic,False,Email,Resolved,Angry,Account Access,Permissions Error,Admin Role,I'm getting an error when trying to add a new team member.,2026-02-14
+TKT-F4F97881,USR-00174,Basic,True,Phone,Escalated,Neutral,Marketing / SEO,Google Listing Issue,Address Incorrect,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-01-18
+TKT-D60B9182,USR-00160,Standard,False,Phone,Resolved,Neutral,Product / Feature,Feature Request,API Access,"Everything is really slow today, pages take forever to load.",2025-11-28
+TKT-4E9EE830,USR-00084,Premium,True,Chat,In Progress,Angry,Onboarding,Integration Help,Toast Integration,I need help getting my custom domain pointed to my Owner site.,2026-03-06
+TKT-FB377552,USR-00120,Premium,False,Chat,Resolved,Angry,Account Access,Login Issue,Password Reset,The two-factor authentication code isn't being sent to my phone.,2025-11-19
+TKT-BFCCA56C,USR-00199,Standard,False,Email,Resolved,Frustrated,Account Access,Login Issue,2FA Problem,I can't log in. It says my password is wrong but I just reset it.,2026-01-06
+TKT-243B71FD,USR-00080,Basic,False,Email,Resolved,Frustrated,Billing,Invoice Question,Monthly Summary,Can you send me an invoice for my records? I can't find it in the portal.,2025-09-25
+TKT-7045EE89,USR-00086,Premium,False,Phone,Resolved,Positive,Online Ordering,Page Not Loading,Mobile Browser,I updated my menu yesterday but the changes aren't showing up on my site.,2026-02-22
+TKT-85FBCB04,USR-00094,Basic,False,Phone,Resolved,Frustrated,Marketing / SEO,SEO Performance,Review Response,The email campaign I scheduled yesterday never went out.,2025-11-08
+TKT-543CC1F6,USR-00003,Premium,False,Email,Resolved,Frustrated,Online Ordering,Order Not Received,POS Sync,"My online ordering page is completely broken, customers can't place orders.",2026-01-06
+TKT-4808A573,USR-00019,Basic,True,Phone,Resolved,Frustrated,Onboarding,Training Request,Reporting Tutorial,Can someone walk me through how to set up my first email campaign?,2025-10-20
+TKT-F90EFA02,USR-00045,Basic,True,Phone,Open,Neutral,Account Access,Login Issue,Password Reset,The two-factor authentication code isn't being sent to my phone.,2025-09-22
+TKT-4932D027,USR-00025,Basic,False,Email,Open,Neutral,Onboarding,Go-Live Issue,Listing Not Live,My site still isn't published after completing setup. What's missing?,2026-01-12
+TKT-155327F0,USR-00145,Premium,False,Chat,Resolved,Positive,Billing,Duplicate Charge,Promo Code Applied,My payment failed again even though I updated my card.,2025-12-25
+TKT-2D298E2E,USR-00137,Basic,True,Chat,Resolved,Frustrated,Account Access,Account Locked,Suspicious Activity,My staff member can't access the dashboard even though I invited them.,2026-01-20
+TKT-2E28C32E,USR-00019,Basic,True,Email,Resolved,Neutral,Account Access,Account Setup,Timezone Setting,My staff member can't access the dashboard even though I invited them.,2026-01-08
+TKT-C41AE1F8,USR-00198,Standard,True,Email,Resolved,Angry,Billing,Invoice Question,Monthly Summary,Can you send me an invoice for my records? I can't find it in the portal.,2026-01-17
+TKT-FB750817,USR-00070,Premium,False,Email,Resolved,Positive,Onboarding,Go-Live Issue,Ordering Not Active,Can someone walk me through how to set up my first email campaign?,2026-01-01
+TKT-A13AB6F0,USR-00199,Standard,False,Chat,Resolved,Angry,Marketing / SEO,Google Listing Issue,Hours Not Updating,My business hours on Google are still showing the old times.,2025-11-14
+TKT-15BACD1F,USR-00082,Basic,False,Email,Escalated,Frustrated,Account Access,Permissions Error,Read-Only Mode,I'm getting an error when trying to add a new team member.,2025-09-26
+TKT-378500F6,USR-00045,Basic,True,Chat,Resolved,Neutral,Account Access,Account Locked,Suspicious Activity,I can't log in. It says my password is wrong but I just reset it.,2025-11-20
+TKT-3B9D1756,USR-00046,Premium,False,Chat,Resolved,Neutral,Product / Feature,Integration Issue,Third-Party App,The reporting dashboard isn't loading for me at all.,2025-12-04
+TKT-B5AC7057,USR-00033,Basic,True,Email,In Progress,Frustrated,Marketing / SEO,Campaign Not Running,SMS Campaign,My ranking on Google dropped significantly this month. What happened?,2025-09-13
+TKT-1BA9E07F,USR-00034,Standard,False,Chat,Open,Angry,Marketing / SEO,Website Not Updating,Image Upload,The email campaign I scheduled yesterday never went out.,2025-09-29
+TKT-6B1A3404,USR-00052,Standard,True,Chat,Resolved,Neutral,Billing,Duplicate Charge,Promo Code Applied,There's an unexpected charge on my account from last week.,2025-09-25
+TKT-E2968D8D,USR-00036,Basic,False,Chat,Resolved,Angry,Marketing / SEO,SEO Performance,Keyword Targeting,My business hours on Google are still showing the old times.,2025-11-15
+TKT-5305F979,USR-00097,Basic,False,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Setup Incomplete,I updated my menu yesterday but the changes aren't showing up on my site.,2025-09-25
+TKT-31E8A858,USR-00114,Premium,True,Email,Escalated,Neutral,Product / Feature,Feature Not Working,Notifications,My Square integration stopped syncing orders since the update.,2025-12-29
+TKT-66F648E8,USR-00149,Basic,False,Phone,Resolved,Angry,Account Access,Account Locked,Billing Hold,I can't log in. It says my password is wrong but I just reset it.,2025-10-14
+TKT-711C1D4F,USR-00169,Basic,False,Chat,In Progress,Frustrated,Account Access,Permissions Error,Admin Role,I'm getting an error when trying to add a new team member.,2025-10-31
+TKT-326DD511,USR-00123,Standard,True,Email,Resolved,Frustrated,Product / Feature,Integration Issue,Third-Party App,My Square integration stopped syncing orders since the update.,2026-02-17
+TKT-49B3A6A8,USR-00113,Basic,False,Email,Open,Neutral,Product / Feature,Feature Request,Custom Branding,My Square integration stopped syncing orders since the update.,2026-02-22
+TKT-89DF0FFE,USR-00186,Basic,False,Phone,Open,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,My ranking on Google dropped significantly this month. What happened?,2025-12-22
+TKT-EB7EC375,USR-00153,Standard,True,Email,Resolved,Frustrated,Account Access,Account Locked,Suspicious Activity,The two-factor authentication code isn't being sent to my phone.,2025-12-18
+TKT-F1889BED,USR-00195,Basic,False,Email,Resolved,Frustrated,Onboarding,Integration Help,Clover Integration,Can someone walk me through how to set up my first email campaign?,2025-12-20
+TKT-F6AD7160,USR-00009,Standard,False,Phone,Open,Frustrated,Product / Feature,Integration Issue,Payment Gateway,The reporting dashboard isn't loading for me at all.,2025-11-26
+TKT-BE73210E,USR-00074,Standard,False,Email,Escalated,Frustrated,Product / Feature,Feature Request,Custom Branding,"Everything is really slow today, pages take forever to load.",2025-12-23
+TKT-E390CDC4,USR-00053,Basic,False,Email,Escalated,Frustrated,Product / Feature,Feature Request,Multi-Location,I'm not receiving any notifications when new orders come in.,2025-11-14
+TKT-F02AC03B,USR-00136,Standard,False,Email,In Progress,Frustrated,Marketing / SEO,Website Not Updating,Content Change,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-12-11
+TKT-F7BEBE8F,USR-00155,Standard,False,Chat,Resolved,Angry,Account Access,Login Issue,2FA Problem,My staff member can't access the dashboard even though I invited them.,2025-09-29
+TKT-66931F59,USR-00106,Standard,False,Chat,Resolved,Frustrated,Billing,Duplicate Charge,Subscription Upgrade Flow,I was charged twice this month and need a refund right away.,2025-11-20
+TKT-0E277BFC,USR-00009,Standard,False,Email,Resolved,Neutral,Product / Feature,Feature Request,Multi-Location,My Square integration stopped syncing orders since the update.,2025-12-09
+TKT-1A47A9F5,USR-00050,Standard,False,Chat,Resolved,Neutral,Billing,Invoice Question,Tax Documentation,I signed up for the annual plan but I'm still being billed monthly.,2026-01-10
+TKT-9A92AA60,USR-00001,Standard,True,Email,Resolved,Frustrated,Onboarding,Go-Live Issue,Site Not Published,My site still isn't published after completing setup. What's missing?,2026-01-28
+TKT-846CFD72,USR-00141,Standard,True,Phone,In Progress,Frustrated,Billing,Failed Payment,Credit Card Expired,Can you send me an invoice for my records? I can't find it in the portal.,2026-02-08
+TKT-E5E455B7,USR-00081,Premium,False,Email,Escalated,Neutral,Online Ordering,Menu Not Updating,Price Sync,A customer said they placed an order but I never received it in my POS.,2026-02-09
+TKT-C588A142,USR-00108,Standard,True,Chat,Resolved,Frustrated,Billing,Invoice Question,Tax Documentation,My payment failed again even though I updated my card.,2025-10-14
+TKT-002B2EAD,USR-00159,Standard,False,Phone,In Progress,Angry,Billing,Invoice Question,Tax Documentation,My payment failed again even though I updated my card.,2025-10-22
+TKT-2ECACE9A,USR-00190,Basic,False,Email,In Progress,Frustrated,Billing,Invoice Question,Annual Billing,There's an unexpected charge on my account from last week.,2025-12-25
+TKT-D5805FA8,USR-00007,Basic,True,Email,Escalated,Frustrated,Online Ordering,Order Not Received,POS Sync,Ordering just stopped working on my site with no warning.,2025-09-14
+TKT-7C8F9ECD,USR-00111,Basic,False,Email,Resolved,Angry,Online Ordering,Ordering Disabled,Setup Incomplete,Ordering just stopped working on my site with no warning.,2025-10-21
+TKT-27517694,USR-00036,Basic,False,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Integration Error,I updated my menu yesterday but the changes aren't showing up on my site.,2026-02-03
+TKT-7CF707BF,USR-00021,Basic,False,Chat,In Progress,Neutral,Product / Feature,Performance Issue,Slow Load Time,My Square integration stopped syncing orders since the update.,2025-11-22
+TKT-EDF4C50C,USR-00159,Standard,False,Chat,Resolved,Positive,Product / Feature,Feature Not Working,Dashboard,I'm not receiving any notifications when new orders come in.,2026-02-02
+TKT-A24D6D5C,USR-00081,Premium,False,Phone,Resolved,Frustrated,Product / Feature,Integration Issue,Payment Gateway,The reporting dashboard isn't loading for me at all.,2026-02-03
+TKT-07794946,USR-00181,Premium,False,Email,Resolved,Angry,Online Ordering,Order Not Received,Third-Party Integration,I updated my menu yesterday but the changes aren't showing up on my site.,2025-12-16
+TKT-D78DB13B,USR-00200,Standard,False,Phone,Resolved,Frustrated,Onboarding,Setup Confusion,POS Connection,I'm trying to connect my POS but I keep getting an error during setup.,2025-10-26
+TKT-C86497C4,USR-00022,Standard,True,Phone,Resolved,Angry,Billing,Refund Request,Trial Extension,There's an unexpected charge on my account from last week.,2025-12-11
+TKT-E824971E,USR-00052,Standard,True,Email,Resolved,Neutral,Onboarding,Training Request,Campaign Setup,How do I import my existing menu? I can't figure out the format.,2025-09-29
+TKT-DA838AF8,USR-00118,Premium,False,Chat,In Progress,Angry,Online Ordering,Order Not Received,Third-Party Integration,Ordering just stopped working on my site with no warning.,2025-09-14
+TKT-58658C69,USR-00050,Standard,False,Chat,In Progress,Angry,Billing,Failed Payment,Insufficient Funds,My payment failed again even though I updated my card.,2026-02-07
+TKT-8236A474,USR-00171,Premium,True,Email,Resolved,Neutral,Onboarding,Integration Help,Toast Integration,I need help getting my custom domain pointed to my Owner site.,2025-12-08
+TKT-B28AF879,USR-00112,Standard,False,Chat,Resolved,Frustrated,Billing,Duplicate Charge,Payment Method Update,My payment failed again even though I updated my card.,2025-11-29
+TKT-6BEC0744,USR-00173,Basic,False,Phone,Open,Neutral,Account Access,Account Setup,Profile Incomplete,My staff member can't access the dashboard even though I invited them.,2026-03-07
+TKT-D880E033,USR-00198,Standard,True,Chat,Resolved,Angry,Online Ordering,Page Not Loading,Checkout Flow,The checkout page keeps throwing an error on mobile devices.,2025-11-12
+TKT-BA5DA753,USR-00033,Basic,True,Chat,Escalated,Frustrated,Product / Feature,Performance Issue,Slow Load Time,I'm not receiving any notifications when new orders come in.,2025-11-09
+TKT-79384607,USR-00025,Basic,False,Phone,Resolved,Angry,Marketing / SEO,SEO Performance,Review Response,My ranking on Google dropped significantly this month. What happened?,2025-10-18
+TKT-B261DA69,USR-00078,Basic,False,Phone,Resolved,Frustrated,Online Ordering,Menu Not Updating,Price Sync,I updated my menu yesterday but the changes aren't showing up on my site.,2025-09-11
+TKT-E116D22F,USR-00076,Standard,True,Chat,Resolved,Angry,Online Ordering,Ordering Disabled,Account Suspension,"My online ordering page is completely broken, customers can't place orders.",2026-01-21
+TKT-EB77A6CE,USR-00147,Basic,True,Email,In Progress,Angry,Account Access,Account Setup,Profile Incomplete,The two-factor authentication code isn't being sent to my phone.,2025-12-12
+TKT-88105359,USR-00192,Basic,False,Chat,Open,Angry,Billing,Duplicate Charge,Subscription Upgrade Flow,There's an unexpected charge on my account from last week.,2025-09-13
+TKT-CA9054F9,USR-00193,Premium,False,Phone,Resolved,Frustrated,Billing,Refund Request,Cancellation Refund,There's an unexpected charge on my account from last week.,2026-01-02
+TKT-9E8EE8EB,USR-00071,Standard,False,Phone,Resolved,Angry,Product / Feature,Integration Issue,Third-Party App,"Everything is really slow today, pages take forever to load.",2026-02-07
+TKT-5B449828,USR-00016,Basic,False,Chat,Resolved,Frustrated,Account Access,Account Locked,Too Many Attempts,I can't log in. It says my password is wrong but I just reset it.,2025-12-19
+TKT-0D7052DF,USR-00034,Standard,False,Email,Resolved,Frustrated,Account Access,Permissions Error,Read-Only Mode,My staff member can't access the dashboard even though I invited them.,2026-02-14
+TKT-9995AE28,USR-00118,Premium,False,Phone,Resolved,Angry,Marketing / SEO,Website Not Updating,Content Change,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-10-15
+TKT-C425FA6C,USR-00008,Basic,False,Chat,Open,Neutral,Product / Feature,Integration Issue,POS Integration,I've been asking for multi-location support for months. Any update?,2025-10-19
+TKT-55C7D082,USR-00154,Basic,True,Email,In Progress,Positive,Billing,Failed Payment,Bank Decline,There's an unexpected charge on my account from last week.,2025-09-29
+TKT-19DC44A7,USR-00060,Basic,True,Phone,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,My business hours on Google are still showing the old times.,2025-11-30
+TKT-BD817834,USR-00019,Basic,True,Email,Resolved,Neutral,Online Ordering,Ordering Disabled,Account Suspension,Ordering just stopped working on my site with no warning.,2025-11-11
+TKT-23DCCF9B,USR-00172,Premium,False,Phone,Resolved,Neutral,Marketing / SEO,Campaign Not Running,Email Campaign,My business hours on Google are still showing the old times.,2025-11-07
+TKT-2F6881A1,USR-00137,Basic,True,Phone,In Progress,Neutral,Onboarding,Setup Confusion,Domain Setup,My site still isn't published after completing setup. What's missing?,2025-09-11
+TKT-8414A2CE,USR-00082,Basic,False,Email,Resolved,Neutral,Billing,Failed Payment,Credit Card Expired,I was charged twice this month and need a refund right away.,2025-09-18
+TKT-862F3CB0,USR-00037,Premium,False,Phone,In Progress,Neutral,Product / Feature,Feature Request,Multi-Location,The reporting dashboard isn't loading for me at all.,2026-02-12
+TKT-E5F99058,USR-00048,Premium,False,Chat,In Progress,Frustrated,Online Ordering,Ordering Disabled,Setup Incomplete,The checkout page keeps throwing an error on mobile devices.,2025-12-16
+TKT-3FC6B6B6,USR-00170,Premium,False,Phone,Resolved,Angry,Online Ordering,Menu Not Updating,Price Sync,The checkout page keeps throwing an error on mobile devices.,2025-09-11
+TKT-4AC422B0,USR-00072,Premium,True,Phone,Resolved,Frustrated,Account Access,Account Locked,Billing Hold,My account got locked and I don't know why.,2025-10-16
+TKT-36BDB5F2,USR-00060,Basic,True,Phone,Resolved,Frustrated,Account Access,Account Locked,Too Many Attempts,The two-factor authentication code isn't being sent to my phone.,2025-10-26
+TKT-D64B8C56,USR-00166,Basic,False,Chat,Resolved,Frustrated,Product / Feature,Feature Request,Custom Branding,I've been asking for multi-location support for months. Any update?,2025-10-03
+TKT-41B27236,USR-00078,Basic,False,Email,Resolved,Neutral,Onboarding,Integration Help,Square Integration,I'm trying to connect my POS but I keep getting an error during setup.,2025-11-01
+TKT-C4E3D35D,USR-00198,Standard,True,Chat,Resolved,Frustrated,Online Ordering,Ordering Disabled,Setup Incomplete,"My online ordering page is completely broken, customers can't place orders.",2025-11-29
+TKT-05C111B6,USR-00154,Basic,True,Chat,Resolved,Frustrated,Onboarding,Training Request,Dashboard Walkthrough,Can someone walk me through how to set up my first email campaign?,2025-10-30
+TKT-AE9D41D7,USR-00044,Premium,True,Email,Resolved,Neutral,Account Access,Account Locked,Too Many Attempts,My staff member can't access the dashboard even though I invited them.,2025-10-26
+TKT-34EAE10C,USR-00006,Standard,False,Chat,Resolved,Neutral,Billing,Refund Request,Overcharge Refund,I was charged twice this month and need a refund right away.,2025-12-21
+TKT-AAC9C615,USR-00108,Standard,True,Email,In Progress,Angry,Online Ordering,Order Not Received,POS Sync,"My online ordering page is completely broken, customers can't place orders.",2025-11-20
+TKT-51322C55,USR-00151,Basic,False,Phone,In Progress,Angry,Billing,Invoice Question,Annual Billing,I signed up for the annual plan but I'm still being billed monthly.,2025-10-19
+TKT-A7EFDC28,USR-00133,Standard,False,Phone,Resolved,Frustrated,Marketing / SEO,SEO Performance,Review Response,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-10-02
+TKT-DF87BCFF,USR-00108,Standard,True,Phone,Open,Neutral,Billing,Refund Request,Trial Extension,My payment failed again even though I updated my card.,2026-03-07
+TKT-66AF98D7,USR-00050,Standard,False,Chat,Escalated,Positive,Account Access,Account Setup,Timezone Setting,My account got locked and I don't know why.,2026-02-23
+TKT-41A1A938,USR-00114,Premium,True,Chat,Resolved,Angry,Billing,Invoice Question,Monthly Summary,My payment failed again even though I updated my card.,2025-11-28
+TKT-F17831AA,USR-00119,Basic,False,Email,Resolved,Angry,Onboarding,Setup Confusion,POS Connection,How do I import my existing menu? I can't figure out the format.,2026-02-15
+TKT-E3BD3D61,USR-00156,Standard,False,Phone,In Progress,Neutral,Billing,Duplicate Charge,Payment Method Update,There's an unexpected charge on my account from last week.,2026-02-15
+TKT-83EC0BA6,USR-00172,Premium,False,Chat,In Progress,Neutral,Marketing / SEO,SEO Performance,Keyword Targeting,My ranking on Google dropped significantly this month. What happened?,2025-11-09
+TKT-ED92FB63,USR-00091,Premium,False,Chat,In Progress,Neutral,Account Access,Permissions Error,Read-Only Mode,I'm getting an error when trying to add a new team member.,2025-11-03
+TKT-3F4DD5C4,USR-00178,Standard,False,Chat,In Progress,Angry,Account Access,Login Issue,2FA Problem,I'm getting an error when trying to add a new team member.,2025-11-19
+TKT-D4EE8391,USR-00062,Standard,False,Email,Resolved,Frustrated,Onboarding,Go-Live Issue,Site Not Published,My site still isn't published after completing setup. What's missing?,2025-12-17
+TKT-F29117CB,USR-00092,Basic,False,Phone,In Progress,Neutral,Product / Feature,Performance Issue,Slow Load Time,I'm not receiving any notifications when new orders come in.,2025-10-20
+TKT-9D7AB08B,USR-00087,Basic,False,Phone,Resolved,Angry,Billing,Failed Payment,Credit Card Expired,I signed up for the annual plan but I'm still being billed monthly.,2025-10-16
+TKT-0C097406,USR-00026,Standard,True,Chat,In Progress,Neutral,Account Access,Account Locked,Too Many Attempts,My staff member can't access the dashboard even though I invited them.,2026-03-06
+TKT-8AF6DFA2,USR-00130,Basic,False,Chat,In Progress,Angry,Onboarding,Training Request,Reporting Tutorial,My site still isn't published after completing setup. What's missing?,2025-11-10
+TKT-7154B0C5,USR-00083,Standard,False,Email,Resolved,Neutral,Onboarding,Go-Live Issue,Ordering Not Active,I need help getting my custom domain pointed to my Owner site.,2025-11-08
+TKT-D0116BF1,USR-00095,Basic,False,Phone,In Progress,Neutral,Onboarding,Integration Help,Clover Integration,I need help getting my custom domain pointed to my Owner site.,2025-10-17
+TKT-DB82C7F8,USR-00061,Premium,True,Phone,Resolved,Neutral,Marketing / SEO,Google Listing Issue,Address Incorrect,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-02-11
+TKT-F6696E7D,USR-00054,Premium,False,Phone,Resolved,Positive,Onboarding,Training Request,Dashboard Walkthrough,How do I import my existing menu? I can't figure out the format.,2026-01-04
+TKT-1F11C706,USR-00006,Standard,False,Phone,Escalated,Angry,Account Access,Permissions Error,Staff Access,My account got locked and I don't know why.,2025-10-25
+TKT-72B6D597,USR-00129,Standard,True,Phone,Resolved,Angry,Billing,Duplicate Charge,Payment Method Update,My payment failed again even though I updated my card.,2026-01-11
+TKT-3017208B,USR-00045,Basic,True,Phone,Resolved,Angry,Billing,Failed Payment,Insufficient Funds,There's an unexpected charge on my account from last week.,2025-12-02
+TKT-D4A4CC38,USR-00024,Standard,False,Email,Resolved,Neutral,Product / Feature,Integration Issue,Payment Gateway,I'm not receiving any notifications when new orders come in.,2026-02-15
+TKT-556D9AB0,USR-00182,Basic,False,Email,In Progress,Neutral,Onboarding,Integration Help,Square Integration,My site still isn't published after completing setup. What's missing?,2026-02-27
+TKT-09060C1C,USR-00179,Basic,True,Phone,Resolved,Frustrated,Online Ordering,Menu Not Updating,Price Sync,"My online ordering page is completely broken, customers can't place orders.",2025-09-11
+TKT-C8E789E4,USR-00121,Premium,True,Chat,Resolved,Angry,Billing,Duplicate Charge,Payment Method Update,My payment failed again even though I updated my card.,2025-10-22
+TKT-9FA97B81,USR-00140,Premium,False,Chat,Escalated,Positive,Marketing / SEO,Campaign Not Running,SMS Campaign,My website hasn't updated since I made changes two days ago.,2025-09-14
+TKT-BD0ADA7D,USR-00191,Basic,True,Email,In Progress,Angry,Account Access,Permissions Error,Admin Role,I can't log in. It says my password is wrong but I just reset it.,2025-12-04
+TKT-91160510,USR-00121,Premium,True,Chat,Resolved,Frustrated,Online Ordering,Page Not Loading,Menu Display,"My online ordering page is completely broken, customers can't place orders.",2025-09-30
+TKT-EDB164DA,USR-00053,Basic,False,Chat,Resolved,Frustrated,Billing,Duplicate Charge,Promo Code Applied,There's an unexpected charge on my account from last week.,2026-02-27
+TKT-E18BC355,USR-00105,Basic,False,Phone,Resolved,Frustrated,Account Access,Permissions Error,Admin Role,My account got locked and I don't know why.,2025-11-24
+TKT-912D38E4,USR-00194,Basic,True,Chat,Resolved,Frustrated,Billing,Failed Payment,Bank Decline,Can you send me an invoice for my records? I can't find it in the portal.,2026-03-05
+TKT-8C57F5C7,USR-00036,Basic,False,Phone,In Progress,Angry,Billing,Refund Request,Overcharge Refund,Can you send me an invoice for my records? I can't find it in the portal.,2026-03-09
+TKT-729E3206,USR-00004,Basic,False,Phone,Resolved,Frustrated,Online Ordering,Order Not Received,Third-Party Integration,The checkout page keeps throwing an error on mobile devices.,2026-01-01
+TKT-90B2EE09,USR-00156,Standard,False,Phone,Open,Frustrated,Onboarding,Setup Confusion,Menu Import,I'm trying to connect my POS but I keep getting an error during setup.,2025-10-11
+TKT-1B3DB7F4,USR-00186,Basic,False,Email,Resolved,Neutral,Billing,Failed Payment,Bank Decline,I was charged twice this month and need a refund right away.,2026-01-20
+TKT-0EC73E7B,USR-00051,Standard,False,Chat,In Progress,Frustrated,Account Access,Account Setup,Timezone Setting,I'm getting an error when trying to add a new team member.,2025-11-26
+TKT-FE1738BC,USR-00103,Standard,True,Phone,Resolved,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,I updated my menu yesterday but the changes aren't showing up on my site.,2026-03-07
+TKT-2ED1886B,USR-00111,Basic,False,Phone,In Progress,Positive,Online Ordering,Menu Not Updating,Item Availability,The checkout page keeps throwing an error on mobile devices.,2025-09-13
+TKT-084EE80C,USR-00086,Premium,False,Phone,Resolved,Frustrated,Billing,Duplicate Charge,Promo Code Applied,My payment failed again even though I updated my card.,2025-12-09
+TKT-BEC9C226,USR-00197,Standard,False,Email,Resolved,Neutral,Account Access,Permissions Error,Read-Only Mode,My staff member can't access the dashboard even though I invited them.,2025-09-14
+TKT-0B5FBE73,USR-00081,Premium,False,Phone,Resolved,Angry,Billing,Duplicate Charge,Payment Method Update,I signed up for the annual plan but I'm still being billed monthly.,2025-12-02
+TKT-49071E9A,USR-00129,Standard,True,Chat,Resolved,Neutral,Marketing / SEO,Campaign Not Running,Ad Integration,The email campaign I scheduled yesterday never went out.,2025-12-10
+TKT-8F61957E,USR-00010,Basic,False,Chat,In Progress,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,My business hours on Google are still showing the old times.,2025-12-24
+TKT-9D399D47,USR-00113,Basic,False,Email,Open,Neutral,Account Access,Login Issue,2FA Problem,My account got locked and I don't know why.,2025-11-26
+TKT-A2C38E77,USR-00147,Basic,True,Phone,Open,Frustrated,Onboarding,Setup Confusion,Domain Setup,My site still isn't published after completing setup. What's missing?,2025-11-02
+TKT-94909583,USR-00067,Premium,False,Chat,Resolved,Neutral,Product / Feature,Integration Issue,Third-Party App,The reporting dashboard isn't loading for me at all.,2025-11-14
+TKT-AB0EF0CA,USR-00125,Basic,False,Phone,Escalated,Frustrated,Online Ordering,Menu Not Updating,Category Order,A customer said they placed an order but I never received it in my POS.,2026-02-20
+TKT-56AC4A63,USR-00119,Basic,False,Email,Resolved,Neutral,Onboarding,Training Request,Reporting Tutorial,I'm trying to connect my POS but I keep getting an error during setup.,2025-12-10
+TKT-AEB4BDC9,USR-00073,Standard,False,Chat,Resolved,Frustrated,Product / Feature,Feature Request,Multi-Location,I'm not receiving any notifications when new orders come in.,2026-02-22
+TKT-58AA3AD5,USR-00053,Basic,False,Email,Open,Frustrated,Billing,Refund Request,Trial Extension,I was charged twice this month and need a refund right away.,2025-11-17
+TKT-8CA5F047,USR-00141,Standard,True,Email,In Progress,Angry,Billing,Duplicate Charge,Subscription Upgrade Flow,My payment failed again even though I updated my card.,2025-11-17
+TKT-69F68C6A,USR-00083,Standard,False,Email,Resolved,Angry,Online Ordering,Menu Not Updating,Price Sync,I updated my menu yesterday but the changes aren't showing up on my site.,2025-11-23
+TKT-69D22DC1,USR-00134,Premium,False,Email,In Progress,Neutral,Marketing / SEO,Website Not Updating,Content Change,The email campaign I scheduled yesterday never went out.,2026-02-23
+TKT-38C5A51F,USR-00194,Basic,True,Phone,In Progress,Neutral,Marketing / SEO,SEO Performance,Review Response,My ranking on Google dropped significantly this month. What happened?,2026-02-22
+TKT-733F5D7B,USR-00073,Standard,False,Chat,In Progress,Neutral,Online Ordering,Page Not Loading,Mobile Browser,"My online ordering page is completely broken, customers can't place orders.",2026-01-30
+TKT-5258D03A,USR-00096,Standard,False,Phone,Resolved,Neutral,Onboarding,Integration Help,Square Integration,My site still isn't published after completing setup. What's missing?,2026-01-18
+TKT-B775A3B6,USR-00025,Basic,False,Chat,Resolved,Angry,Billing,Failed Payment,Credit Card Expired,My payment failed again even though I updated my card.,2026-01-07
+TKT-EE9655CD,USR-00076,Standard,True,Phone,Resolved,Neutral,Marketing / SEO,Google Listing Issue,GMB Sync,My business hours on Google are still showing the old times.,2026-02-28
+TKT-0C535C9C,USR-00163,Premium,False,Email,Resolved,Frustrated,Online Ordering,Page Not Loading,Checkout Flow,Ordering just stopped working on my site with no warning.,2026-02-27
+TKT-9733F3B3,USR-00178,Standard,False,Chat,In Progress,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,My website hasn't updated since I made changes two days ago.,2025-11-24
+TKT-8A0B72B5,USR-00178,Standard,False,Chat,Resolved,Neutral,Marketing / SEO,Website Not Updating,Content Change,My business hours on Google are still showing the old times.,2025-11-18
+TKT-B7F43CBF,USR-00151,Basic,False,Phone,In Progress,Frustrated,Onboarding,Go-Live Issue,Site Not Published,Can someone walk me through how to set up my first email campaign?,2025-09-20
+TKT-6EE2EDCB,USR-00153,Standard,True,Phone,Open,Angry,Onboarding,Integration Help,Square Integration,I need help getting my custom domain pointed to my Owner site.,2025-09-30
+TKT-227473BA,USR-00102,Basic,False,Phone,Resolved,Frustrated,Marketing / SEO,Website Not Updating,Content Change,The email campaign I scheduled yesterday never went out.,2026-01-09
+TKT-EF792543,USR-00099,Premium,True,Phone,Open,Angry,Billing,Failed Payment,Insufficient Funds,I was charged twice this month and need a refund right away.,2026-02-04
+TKT-24E9286B,USR-00167,Standard,False,Email,Resolved,Neutral,Billing,Refund Request,Cancellation Refund,Can you send me an invoice for my records? I can't find it in the portal.,2025-11-27
+TKT-E0E37151,USR-00056,Basic,True,Phone,In Progress,Neutral,Onboarding,Go-Live Issue,Site Not Published,My site still isn't published after completing setup. What's missing?,2025-11-16
+TKT-F0E62B1B,USR-00011,Basic,True,Phone,Escalated,Frustrated,Onboarding,Training Request,Dashboard Walkthrough,I'm trying to connect my POS but I keep getting an error during setup.,2025-10-25
+TKT-A511253C,USR-00120,Premium,False,Chat,In Progress,Neutral,Marketing / SEO,Google Listing Issue,GMB Sync,My ranking on Google dropped significantly this month. What happened?,2026-02-18
+TKT-916C1A83,USR-00104,Basic,False,Email,Resolved,Neutral,Marketing / SEO,SEO Performance,Review Response,My website hasn't updated since I made changes two days ago.,2025-09-17
+TKT-F72D01F3,USR-00164,Premium,True,Email,Resolved,Neutral,Onboarding,Go-Live Issue,Listing Not Live,My site still isn't published after completing setup. What's missing?,2025-11-20
+TKT-88FF9966,USR-00039,Basic,False,Email,Resolved,Neutral,Online Ordering,Ordering Disabled,Integration Error,I updated my menu yesterday but the changes aren't showing up on my site.,2025-12-02
+TKT-F93F296C,USR-00187,Premium,False,Chat,Resolved,Angry,Account Access,Permissions Error,Admin Role,The two-factor authentication code isn't being sent to my phone.,2025-11-14
+TKT-B8E5D6AD,USR-00098,Standard,False,Email,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Address Incorrect,My website hasn't updated since I made changes two days ago.,2025-10-16
+TKT-FA0DC1B6,USR-00160,Standard,False,Phone,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Hours Not Updating,My website hasn't updated since I made changes two days ago.,2025-10-29
+TKT-5B374184,USR-00091,Premium,False,Chat,Resolved,Frustrated,Marketing / SEO,Google Listing Issue,Address Incorrect,My ranking on Google dropped significantly this month. What happened?,2025-12-15
+TKT-92D716A2,USR-00194,Basic,True,Phone,Resolved,Frustrated,Product / Feature,Feature Request,Custom Branding,My Square integration stopped syncing orders since the update.,2025-09-30
+TKT-0A331A9A,USR-00197,Standard,False,Phone,Resolved,Frustrated,Product / Feature,Feature Request,API Access,I'm not receiving any notifications when new orders come in.,2025-11-30
+TKT-BDE48779,USR-00079,Standard,False,Email,Resolved,Neutral,Onboarding,Go-Live Issue,Site Not Published,Can someone walk me through how to set up my first email campaign?,2025-10-29
+TKT-A897D1C4,USR-00086,Premium,False,Phone,Resolved,Positive,Billing,Refund Request,Trial Extension,Can you send me an invoice for my records? I can't find it in the portal.,2026-01-23
+TKT-49E6BB85,USR-00065,Basic,False,Chat,In Progress,Neutral,Onboarding,Go-Live Issue,Site Not Published,Can someone walk me through how to set up my first email campaign?,2026-02-03
+TKT-66745CB8,USR-00004,Basic,False,Email,Resolved,Frustrated,Product / Feature,Performance Issue,Slow Load Time,I've been asking for multi-location support for months. Any update?,2026-02-09
+TKT-37319667,USR-00068,Standard,False,Email,Resolved,Frustrated,Onboarding,Integration Help,Clover Integration,My site still isn't published after completing setup. What's missing?,2025-09-30
+TKT-65FB10F6,USR-00107,Standard,True,Email,In Progress,Frustrated,Product / Feature,Integration Issue,POS Integration,I'm not receiving any notifications when new orders come in.,2025-12-20
+TKT-CD6FD94F,USR-00101,Standard,False,Phone,Resolved,Angry,Billing,Duplicate Charge,Promo Code Applied,I signed up for the annual plan but I'm still being billed monthly.,2026-02-21
+TKT-B3F4A8DB,USR-00015,Basic,False,Phone,In Progress,Neutral,Marketing / SEO,SEO Performance,Keyword Targeting,My business hours on Google are still showing the old times.,2026-03-02
+TKT-2874B529,USR-00173,Basic,False,Phone,Resolved,Angry,Online Ordering,Ordering Disabled,Setup Incomplete,I updated my menu yesterday but the changes aren't showing up on my site.,2025-12-19
+TKT-F2E8DF42,USR-00129,Standard,True,Email,In Progress,Angry,Account Access,Account Setup,New User Invite,The two-factor authentication code isn't being sent to my phone.,2026-01-17
+TKT-56F853A2,USR-00185,Standard,True,Email,Resolved,Frustrated,Account Access,Login Issue,SSO Failure,My staff member can't access the dashboard even though I invited them.,2025-09-27
+TKT-F64759EC,USR-00194,Basic,True,Email,Escalated,Angry,Product / Feature,Feature Request,Multi-Location,I'm not receiving any notifications when new orders come in.,2025-11-05
+TKT-E2B28BEF,USR-00147,Basic,True,Chat,Escalated,Angry,Billing,Duplicate Charge,Promo Code Applied,I signed up for the annual plan but I'm still being billed monthly.,2026-01-23
+TKT-D9BC57A8,USR-00009,Standard,False,Phone,Resolved,Neutral,Onboarding,Training Request,Dashboard Walkthrough,I need help getting my custom domain pointed to my Owner site.,2025-11-21
+TKT-89397F8A,USR-00040,Basic,True,Phone,Escalated,Angry,Product / Feature,Performance Issue,Slow Load Time,I'm not receiving any notifications when new orders come in.,2025-10-05
+TKT-8244BD1E,USR-00001,Standard,True,Phone,Open,Frustrated,Billing,Duplicate Charge,Subscription Upgrade Flow,My payment failed again even though I updated my card.,2026-01-18
+TKT-92093BA6,USR-00062,Standard,False,Phone,In Progress,Neutral,Marketing / SEO,Website Not Updating,Image Upload,The email campaign I scheduled yesterday never went out.,2026-02-16
+TKT-3F7F18E0,USR-00088,Premium,False,Email,In Progress,Neutral,Onboarding,Training Request,Dashboard Walkthrough,I'm trying to connect my POS but I keep getting an error during setup.,2025-10-03
+TKT-C4D1E8D3,USR-00073,Standard,False,Chat,Resolved,Neutral,Marketing / SEO,Website Not Updating,Image Upload,My business hours on Google are still showing the old times.,2025-09-16
+TKT-078584F3,USR-00058,Basic,False,Phone,Resolved,Positive,Product / Feature,Performance Issue,Slow Load Time,My Square integration stopped syncing orders since the update.,2025-12-01
+TKT-4419AC6E,USR-00156,Standard,False,Email,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,SMS Campaign,The email campaign I scheduled yesterday never went out.,2025-10-24
+TKT-3ABABDBE,USR-00191,Basic,True,Phone,Resolved,Angry,Account Access,Login Issue,Password Reset,My staff member can't access the dashboard even though I invited them.,2025-11-16
+TKT-0C863550,USR-00164,Premium,True,Email,Open,Frustrated,Account Access,Login Issue,SSO Failure,I'm getting an error when trying to add a new team member.,2025-10-27
+TKT-89633C08,USR-00157,Basic,False,Email,Open,Angry,Online Ordering,Menu Not Updating,Item Availability,Ordering just stopped working on my site with no warning.,2025-09-19
+TKT-B4129226,USR-00043,Standard,False,Phone,Open,Angry,Account Access,Account Setup,Timezone Setting,My staff member can't access the dashboard even though I invited them.,2025-11-04
+TKT-10B96DC6,USR-00108,Standard,True,Phone,In Progress,Frustrated,Online Ordering,Ordering Disabled,Setup Incomplete,Ordering just stopped working on my site with no warning.,2025-12-04
+TKT-05834309,USR-00165,Standard,False,Email,Resolved,Neutral,Billing,Duplicate Charge,Promo Code Applied,There's an unexpected charge on my account from last week.,2026-01-16
+TKT-1EC8CA6D,USR-00081,Premium,False,Chat,Resolved,Angry,Onboarding,Training Request,Dashboard Walkthrough,I need help getting my custom domain pointed to my Owner site.,2026-01-11
+TKT-63A7A903,USR-00096,Standard,False,Phone,Resolved,Frustrated,Onboarding,Go-Live Issue,Listing Not Live,How do I import my existing menu? I can't figure out the format.,2026-02-08
+TKT-9E2AD631,USR-00176,Premium,False,Phone,In Progress,Neutral,Billing,Invoice Question,Tax Documentation,I was charged twice this month and need a refund right away.,2025-09-23
+TKT-0565F8A0,USR-00088,Premium,False,Email,Resolved,Positive,Marketing / SEO,Google Listing Issue,GMB Sync,My ranking on Google dropped significantly this month. What happened?,2025-11-28
+TKT-A3719C85,USR-00154,Basic,True,Email,Resolved,Frustrated,Online Ordering,Page Not Loading,Mobile Browser,A customer said they placed an order but I never received it in my POS.,2025-10-22
+TKT-96735DCE,USR-00182,Basic,False,Phone,Resolved,Angry,Billing,Invoice Question,Monthly Summary,I was charged twice this month and need a refund right away.,2025-11-08
+TKT-4798A283,USR-00166,Basic,False,Chat,Escalated,Frustrated,Product / Feature,Feature Request,Multi-Location,I'm not receiving any notifications when new orders come in.,2025-10-13
+TKT-0DCFD5AC,USR-00181,Premium,False,Chat,Resolved,Neutral,Onboarding,Setup Confusion,Menu Import,Can someone walk me through how to set up my first email campaign?,2025-12-23
+TKT-F3175677,USR-00019,Basic,True,Email,Resolved,Frustrated,Product / Feature,Feature Request,API Access,My Square integration stopped syncing orders since the update.,2025-12-29
+TKT-EB63BB13,USR-00173,Basic,False,Phone,In Progress,Angry,Online Ordering,Menu Not Updating,Category Order,I updated my menu yesterday but the changes aren't showing up on my site.,2026-01-08
+TKT-EFFA9EAC,USR-00067,Premium,False,Phone,In Progress,Neutral,Marketing / SEO,SEO Performance,Ranking Drop,My ranking on Google dropped significantly this month. What happened?,2025-09-30
+TKT-8AE9544C,USR-00165,Standard,False,Phone,Resolved,Frustrated,Product / Feature,Feature Request,Custom Branding,"Everything is really slow today, pages take forever to load.",2026-01-20
+TKT-21FC8E2B,USR-00128,Basic,False,Phone,Resolved,Angry,Online Ordering,Ordering Disabled,Account Suspension,The checkout page keeps throwing an error on mobile devices.,2026-02-23
+TKT-2791371E,USR-00165,Standard,False,Chat,Resolved,Positive,Onboarding,Training Request,Reporting Tutorial,How do I import my existing menu? I can't figure out the format.,2026-01-04
+TKT-48AC0489,USR-00099,Premium,True,Phone,Escalated,Neutral,Onboarding,Training Request,Reporting Tutorial,Can someone walk me through how to set up my first email campaign?,2025-09-17
+TKT-997904A1,USR-00085,Basic,True,Email,Resolved,Positive,Online Ordering,Order Not Received,Notification Failure,The checkout page keeps throwing an error on mobile devices.,2026-03-05
+TKT-5DED5857,USR-00041,Standard,False,Chat,In Progress,Neutral,Billing,Refund Request,Trial Extension,My payment failed again even though I updated my card.,2025-11-23
+TKT-9FF45FAF,USR-00044,Premium,True,Email,Escalated,Neutral,Marketing / SEO,Website Not Updating,Domain Issue,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-10-22
+TKT-B1D269D0,USR-00149,Basic,False,Chat,Resolved,Neutral,Onboarding,Go-Live Issue,Listing Not Live,Can someone walk me through how to set up my first email campaign?,2025-10-27
+TKT-DFD63664,USR-00089,Premium,False,Email,Resolved,Frustrated,Online Ordering,Ordering Disabled,Account Suspension,Ordering just stopped working on my site with no warning.,2026-02-16
+TKT-50B7C6BD,USR-00021,Basic,False,Chat,In Progress,Positive,Onboarding,Setup Confusion,POS Connection,My site still isn't published after completing setup. What's missing?,2026-01-02
+TKT-5C1E81A4,USR-00199,Standard,False,Phone,Resolved,Frustrated,Account Access,Account Setup,Timezone Setting,I can't log in. It says my password is wrong but I just reset it.,2026-02-25
+TKT-EE345423,USR-00132,Basic,False,Phone,In Progress,Neutral,Onboarding,Integration Help,Toast Integration,I'm trying to connect my POS but I keep getting an error during setup.,2025-10-17
+TKT-A0E70524,USR-00021,Basic,False,Email,In Progress,Angry,Online Ordering,Page Not Loading,Mobile Browser,"My online ordering page is completely broken, customers can't place orders.",2026-03-04
+TKT-37369B29,USR-00116,Basic,True,Chat,In Progress,Frustrated,Product / Feature,Integration Issue,Payment Gateway,I'm not receiving any notifications when new orders come in.,2026-03-03
+TKT-6A145134,USR-00112,Standard,False,Chat,In Progress,Neutral,Account Access,Login Issue,SSO Failure,I can't log in. It says my password is wrong but I just reset it.,2026-02-07
+TKT-5288C7D7,USR-00098,Standard,False,Email,Resolved,Positive,Product / Feature,Integration Issue,Payment Gateway,I've been asking for multi-location support for months. Any update?,2026-01-12
+TKT-B00664EE,USR-00091,Premium,False,Email,Resolved,Frustrated,Marketing / SEO,SEO Performance,Ranking Drop,The email campaign I scheduled yesterday never went out.,2026-02-03
+TKT-B81A92DB,USR-00032,Basic,True,Phone,In Progress,Angry,Product / Feature,Feature Not Working,Reporting,The reporting dashboard isn't loading for me at all.,2026-01-04
+TKT-186EFF06,USR-00013,Standard,False,Email,Resolved,Neutral,Marketing / SEO,Google Listing Issue,GMB Sync,My ranking on Google dropped significantly this month. What happened?,2026-01-29
+TKT-70AC406D,USR-00109,Basic,False,Email,In Progress,Frustrated,Account Access,Account Locked,Too Many Attempts,The two-factor authentication code isn't being sent to my phone.,2025-10-28
+TKT-3E77C37C,USR-00143,Premium,False,Email,Open,Angry,Onboarding,Integration Help,Clover Integration,My site still isn't published after completing setup. What's missing?,2025-11-04
+TKT-F394A0C6,USR-00056,Basic,True,Chat,Resolved,Angry,Online Ordering,Order Not Received,POS Sync,Ordering just stopped working on my site with no warning.,2025-12-02
+TKT-B5CCA8C3,USR-00175,Basic,False,Chat,Resolved,Neutral,Onboarding,Training Request,Campaign Setup,My site still isn't published after completing setup. What's missing?,2025-12-07
+TKT-85B2E36B,USR-00179,Basic,True,Phone,Resolved,Frustrated,Online Ordering,Order Not Received,Third-Party Integration,The checkout page keeps throwing an error on mobile devices.,2025-10-04
+TKT-48286A90,USR-00087,Basic,False,Phone,Resolved,Neutral,Onboarding,Setup Confusion,POS Connection,My site still isn't published after completing setup. What's missing?,2025-09-27
+TKT-2B1C7BF0,USR-00052,Standard,True,Email,Resolved,Frustrated,Online Ordering,Menu Not Updating,Item Availability,I updated my menu yesterday but the changes aren't showing up on my site.,2025-09-23
+TKT-F7E36854,USR-00057,Standard,False,Chat,Resolved,Frustrated,Online Ordering,Menu Not Updating,Price Sync,"My online ordering page is completely broken, customers can't place orders.",2026-02-11
+TKT-58BF5225,USR-00129,Standard,True,Email,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,The email campaign I scheduled yesterday never went out.,2026-01-07
+TKT-4AF52116,USR-00038,Premium,False,Phone,Escalated,Frustrated,Product / Feature,Feature Not Working,Reporting,I've been asking for multi-location support for months. Any update?,2026-02-18
+TKT-EAAE7E4B,USR-00185,Standard,True,Chat,Open,Frustrated,Onboarding,Go-Live Issue,Listing Not Live,Can someone walk me through how to set up my first email campaign?,2026-01-12
+TKT-3F33ECFB,USR-00029,Premium,True,Chat,Resolved,Angry,Product / Feature,Integration Issue,Payment Gateway,I'm not receiving any notifications when new orders come in.,2026-02-22
+TKT-11CCC72D,USR-00100,Basic,False,Chat,Resolved,Frustrated,Onboarding,Go-Live Issue,Ordering Not Active,I need help getting my custom domain pointed to my Owner site.,2025-12-03
+TKT-0F9DD72A,USR-00091,Premium,False,Chat,Resolved,Frustrated,Online Ordering,Page Not Loading,Checkout Flow,The checkout page keeps throwing an error on mobile devices.,2026-02-18
+TKT-F98C5C8C,USR-00180,Basic,True,Email,In Progress,Frustrated,Product / Feature,Performance Issue,Timeout Error,"Everything is really slow today, pages take forever to load.",2026-01-31
+TKT-329CA27B,USR-00012,Premium,False,Phone,Escalated,Positive,Marketing / SEO,Campaign Not Running,SMS Campaign,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-02-12
+TKT-213BB604,USR-00196,Basic,False,Chat,Escalated,Angry,Online Ordering,Order Not Received,Third-Party Integration,"My online ordering page is completely broken, customers can't place orders.",2025-12-22
+TKT-11782DE6,USR-00013,Standard,False,Email,Resolved,Frustrated,Marketing / SEO,SEO Performance,Keyword Targeting,My website hasn't updated since I made changes two days ago.,2026-01-01
+TKT-739A9A95,USR-00107,Standard,True,Phone,Resolved,Frustrated,Billing,Duplicate Charge,Payment Method Update,There's an unexpected charge on my account from last week.,2025-11-23
+TKT-E1AE65FF,USR-00019,Basic,True,Email,Resolved,Angry,Online Ordering,Menu Not Updating,Category Order,"My online ordering page is completely broken, customers can't place orders.",2026-01-12
+TKT-6FE8B365,USR-00047,Premium,False,Phone,Resolved,Angry,Account Access,Permissions Error,Admin Role,The two-factor authentication code isn't being sent to my phone.,2025-09-26
+TKT-7E460DFC,USR-00059,Basic,True,Email,Resolved,Frustrated,Product / Feature,Feature Not Working,Dashboard,My Square integration stopped syncing orders since the update.,2025-10-13
+TKT-A83795CC,USR-00017,Standard,False,Phone,In Progress,Frustrated,Account Access,Account Locked,Billing Hold,I'm getting an error when trying to add a new team member.,2026-02-05
+TKT-3C436B7C,USR-00067,Premium,False,Email,Resolved,Frustrated,Product / Feature,Performance Issue,Slow Load Time,I'm not receiving any notifications when new orders come in.,2026-02-04
+TKT-6EA00C82,USR-00174,Basic,True,Chat,Resolved,Neutral,Onboarding,Setup Confusion,Domain Setup,How do I import my existing menu? I can't figure out the format.,2026-01-03
+TKT-6BFE6D79,USR-00085,Basic,True,Chat,In Progress,Angry,Online Ordering,Order Not Received,Third-Party Integration,I updated my menu yesterday but the changes aren't showing up on my site.,2025-10-22
+TKT-CAC37420,USR-00171,Premium,True,Chat,Resolved,Frustrated,Account Access,Login Issue,Password Reset,My account got locked and I don't know why.,2025-10-13
+TKT-0C3B8012,USR-00077,Basic,False,Email,Resolved,Angry,Online Ordering,Ordering Disabled,Integration Error,A customer said they placed an order but I never received it in my POS.,2025-12-24
+TKT-D84FF0F3,USR-00003,Premium,False,Chat,In Progress,Frustrated,Online Ordering,Page Not Loading,Menu Display,A customer said they placed an order but I never received it in my POS.,2025-12-09
+TKT-1BF06F3E,USR-00187,Premium,False,Chat,Escalated,Neutral,Marketing / SEO,Website Not Updating,Domain Issue,My business hours on Google are still showing the old times.,2025-10-20
+TKT-FCA685F7,USR-00187,Premium,False,Chat,Resolved,Frustrated,Marketing / SEO,SEO Performance,Review Response,The email campaign I scheduled yesterday never went out.,2025-10-16
+TKT-0F934FF0,USR-00026,Standard,True,Phone,Resolved,Neutral,Product / Feature,Performance Issue,Timeout Error,I'm not receiving any notifications when new orders come in.,2025-12-21
+TKT-39B0E75D,USR-00138,Basic,False,Chat,Resolved,Frustrated,Marketing / SEO,Campaign Not Running,Ad Integration,My Google listing is showing the wrong address. I need this fixed ASAP.,2025-09-11
+TKT-8FE5D904,USR-00125,Basic,False,Chat,In Progress,Angry,Billing,Duplicate Charge,Payment Method Update,There's an unexpected charge on my account from last week.,2025-09-23
+TKT-9818912F,USR-00142,Standard,False,Phone,Resolved,Frustrated,Billing,Failed Payment,Bank Decline,Can you send me an invoice for my records? I can't find it in the portal.,2026-02-13
+TKT-710809DF,USR-00152,Basic,False,Phone,Resolved,Angry,Account Access,Account Setup,New User Invite,My account got locked and I don't know why.,2026-01-18
+TKT-F9848AC5,USR-00183,Standard,False,Chat,In Progress,Neutral,Account Access,Account Setup,New User Invite,The two-factor authentication code isn't being sent to my phone.,2025-11-10
+TKT-F3C45EC9,USR-00069,Basic,True,Phone,Resolved,Angry,Product / Feature,Integration Issue,POS Integration,I've been asking for multi-location support for months. Any update?,2026-01-20
+TKT-BFE790FE,USR-00074,Standard,False,Phone,In Progress,Angry,Online Ordering,Menu Not Updating,Category Order,A customer said they placed an order but I never received it in my POS.,2026-02-10
+TKT-40138EA7,USR-00156,Standard,False,Phone,In Progress,Angry,Online Ordering,Menu Not Updating,Category Order,The checkout page keeps throwing an error on mobile devices.,2025-09-28
+TKT-9764BC8B,USR-00188,Premium,False,Phone,Resolved,Positive,Onboarding,Setup Confusion,Menu Import,How do I import my existing menu? I can't figure out the format.,2026-02-23
+TKT-5F51D5D7,USR-00003,Premium,False,Email,Resolved,Positive,Account Access,Permissions Error,Read-Only Mode,I can't log in. It says my password is wrong but I just reset it.,2026-02-17
+TKT-5BAEEF92,USR-00170,Premium,False,Phone,Resolved,Neutral,Marketing / SEO,Website Not Updating,Image Upload,My Google listing is showing the wrong address. I need this fixed ASAP.,2026-02-18
+TKT-D0F9D692,USR-00158,Premium,False,Phone,Open,Neutral,Marketing / SEO,SEO Performance,Ranking Drop,My website hasn't updated since I made changes two days ago.,2026-01-19
+TKT-D49501EB,USR-00158,Premium,False,Email,Resolved,Neutral,Product / Feature,Feature Not Working,Notifications,The reporting dashboard isn't loading for me at all.,2025-11-05
+TKT-D8E65557,USR-00144,Basic,False,Phone,Open,Positive,Billing,Duplicate Charge,Payment Method Update,I signed up for the annual plan but I'm still being billed monthly.,2026-02-14
+TKT-A25095FD,USR-00004,Basic,False,Chat,Resolved,Frustrated,Online Ordering,Menu Not Updating,Category Order,The checkout page keeps throwing an error on mobile devices.,2025-11-10
+TKT-E0152405,USR-00079,Standard,False,Chat,Open,Angry,Account Access,Permissions Error,Staff Access,My account got locked and I don't know why.,2026-01-16
+TKT-FCDB9998,USR-00002,Standard,False,Chat,Resolved,Frustrated,Online Ordering,Order Not Received,Third-Party Integration,"My online ordering page is completely broken, customers can't place orders.",2025-10-06
+TKT-5EAB161B,USR-00065,Basic,False,Phone,Escalated,Angry,Billing,Invoice Question,Monthly Summary,I signed up for the annual plan but I'm still being billed monthly.,2025-12-18
+TKT-3057A470,USR-00044,Premium,True,Email,Escalated,Neutral,Onboarding,Training Request,Dashboard Walkthrough,My site still isn't published after completing setup. What's missing?,2025-11-13
+TKT-EAFE905F,USR-00040,Basic,True,Phone,In Progress,Frustrated,Online Ordering,Ordering Disabled,Integration Error,A customer said they placed an order but I never received it in my POS.,2025-09-22
+TKT-1CFB97C4,USR-00058,Basic,False,Email,Resolved,Frustrated,Billing,Refund Request,Cancellation Refund,I was charged twice this month and need a refund right away.,2025-09-24
+TKT-F5F97429,USR-00088,Premium,False,Chat,Resolved,Frustrated,Billing,Refund Request,Cancellation Refund,There's an unexpected charge on my account from last week.,2025-10-22
+TKT-6FD9E370,USR-00141,Standard,True,Chat,In Progress,Frustrated,Billing,Duplicate Charge,Payment Method Update,My payment failed again even though I updated my card.,2026-02-25
+TKT-4A4C682B,USR-00093,Premium,True,Phone,Resolved,Neutral,Onboarding,Integration Help,Toast Integration,How do I import my existing menu? I can't figure out the format.,2025-11-01
+TKT-24F77ACA,USR-00093,Premium,True,Email,In Progress,Neutral,Billing,Invoice Question,Annual Billing,I signed up for the annual plan but I'm still being billed monthly.,2025-10-30
+TKT-CD938EF2,USR-00129,Standard,True,Chat,Resolved,Frustrated,Online Ordering,Menu Not Updating,Category Order,I updated my menu yesterday but the changes aren't showing up on my site.,2025-10-29
+TKT-DC8D90E4,USR-00018,Basic,False,Chat,Resolved,Frustrated,Marketing / SEO,Website Not Updating,Image Upload,My business hours on Google are still showing the old times.,2025-11-16
+TKT-E9F3D911,USR-00057,Standard,False,Chat,Resolved,Frustrated,Onboarding,Setup Confusion,Domain Setup,I'm trying to connect my POS but I keep getting an error during setup.,2025-10-29
+TKT-A8D5DAEE,USR-00047,Premium,False,Phone,Escalated,Frustrated,Account Access,Account Locked,Billing Hold,I can't log in. It says my password is wrong but I just reset it.,2025-11-21
+TKT-62CFD9D2,USR-00052,Standard,True,Phone,Resolved,Frustrated,Billing,Failed Payment,Bank Decline,I signed up for the annual plan but I'm still being billed monthly.,2025-11-15
+TKT-FD9B8528,USR-00048,Premium,False,Email,Open,Angry,Online Ordering,Ordering Disabled,Account Suspension,I updated my menu yesterday but the changes aren't showing up on my site.,2025-10-25
+TKT-0819ECE5,USR-00177,Premium,False,Email,Open,Neutral,Online Ordering,Order Not Received,Notification Failure,I updated my menu yesterday but the changes aren't showing up on my site.,2025-09-21
+TKT-A898291F,USR-00101,Standard,False,Phone,Resolved,Frustrated,Marketing / SEO,Website Not Updating,Domain Issue,The email campaign I scheduled yesterday never went out.,2026-02-26
+TKT-1B71CD55,USR-00054,Premium,False,Email,Escalated,Frustrated,Onboarding,Integration Help,Toast Integration,I'm trying to connect my POS but I keep getting an error during setup.,2025-12-20
+TKT-412027DD,USR-00014,Basic,False,Phone,Open,Frustrated,Online Ordering,Order Not Received,Notification Failure,I updated my menu yesterday but the changes aren't showing up on my site.,2026-02-28
+TKT-BF6C3A35,USR-00116,Basic,True,Chat,Resolved,Positive,Marketing / SEO,Website Not Updating,Content Change,My ranking on Google dropped significantly this month. What happened?,2025-10-11
+TKT-E8F1F1E9,USR-00172,Premium,False,Email,Resolved,Positive,Billing,Invoice Question,Annual Billing,I was charged twice this month and need a refund right away.,2026-02-12
+TKT-493F2D49,USR-00116,Basic,True,Chat,Resolved,Angry,Account Access,Permissions Error,Read-Only Mode,The two-factor authentication code isn't being sent to my phone.,2025-12-08
+TKT-7198EDEB,USR-00052,Standard,True,Email,In Progress,Frustrated,Product / Feature,Feature Not Working,Notifications,"Everything is really slow today, pages take forever to load.",2026-01-25
+TKT-D3F0D74F,USR-00190,Basic,False,Phone,Resolved,Positive,Product / Feature,Feature Request,Custom Branding,"Everything is really slow today, pages take forever to load.",2025-10-20
+TKT-30E4F844,USR-00162,Standard,False,Email,Resolved,Frustrated,Onboarding,Go-Live Issue,Ordering Not Active,Can someone walk me through how to set up my first email campaign?,2025-12-03
+TKT-DB2ACAE6,USR-00116,Basic,True,Email,In Progress,Positive,Product / Feature,Performance Issue,Slow Load Time,My Square integration stopped syncing orders since the update.,2026-01-12

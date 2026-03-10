@@ -211,19 +211,6 @@ fig5 = px.bar(
 fig5.update_layout(xaxis_tickangle=-30, legend_title="Primary Category")
 st.plotly_chart(fig5, use_container_width=True)
 
-st.divider()
-
-# ── AI Chat Agent ──────────────────────────────────────────────────────────────
-st.subheader("💬 Ask the Analytics Agent")
-st.caption("Ask questions about your support ticket data in plain English.")
-
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.write(msg["content"])
-
 # Build a compact data context for Claude
 def build_data_context():
     top_categories = (
@@ -267,6 +254,35 @@ PRODUCT GAP NARRATIVE:
 {narrative or 'Not available'}
 """
 
+st.divider()
+
+# ── Ticket Explorer ────────────────────────────────────────────────────────────
+st.subheader("🗂 Ticket Explorer")
+cols_to_show = [
+    "ticket_id", "user_id", "plan_type", "primary_label",
+    "secondary_label", "tertiary_label", "sentiment", "urgency",
+    "status", "is_churned", "one_line_summary", "created_at"
+]
+available_cols = [c for c in cols_to_show if c in filtered.columns]
+st.dataframe(
+    filtered[available_cols].sort_values("created_at", ascending=False).head(100),
+    use_container_width=True,
+    hide_index=True,
+)
+
+st.divider()
+
+# ── AI Chat Agent ──────────────────────────────────────────────────────────────
+st.subheader("💬 Ask the Analytics Agent")
+st.caption("Ask questions about your support ticket data in plain English.")
+
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.write(msg["content"])
+
 if prompt := st.chat_input("e.g. Which category is most correlated with churn?"):
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
@@ -301,19 +317,3 @@ Always tie insights back to customer retention and product improvement opportuni
                 answer = response.content[0].text
                 st.write(answer)
                 st.session_state.messages.append({"role": "assistant", "content": answer})
-
-st.divider()
-
-# ── Ticket Explorer ────────────────────────────────────────────────────────────
-st.subheader("🗂 Ticket Explorer")
-cols_to_show = [
-    "ticket_id", "user_id", "plan_type", "primary_label",
-    "secondary_label", "tertiary_label", "sentiment", "urgency",
-    "status", "is_churned", "one_line_summary", "created_at"
-]
-available_cols = [c for c in cols_to_show if c in filtered.columns]
-st.dataframe(
-    filtered[available_cols].sort_values("created_at", ascending=False).head(100),
-    use_container_width=True,
-    hide_index=True,
-)
