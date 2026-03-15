@@ -7,6 +7,20 @@ A production-style support ticket intelligence pipeline — demonstrating automa
 > **Part of a connected portfolio.** The customer universe in this project (user IDs, plan types, churn status) is drawn from the same data model as [metrics-store](https://github.com/theotherbrandonsoto/metrics-store), simulating what a real multi-system analytics environment looks like.
 
 
+## 📌 Executive Summary
+
+### The Business Problem
+Support tickets are one of the richest signals in a SaaS business — but extracting meaning from them at scale is slow and manual. Without a consistent taxonomy and automated analysis, patterns stay buried in a queue while product and CS teams make decisions without the full picture.
+
+### The Solution
+This pipeline ingests raw support tickets, uses Claude to validate a structured taxonomy and assign sentiment and urgency scores, and surfaces the results in a live Streamlit dashboard with an AI analytics agent. The output is a prioritized product gap report — generated automatically, no analyst hours required.
+
+### Project Impact
+What typically takes an analyst several hours of ticket sampling, manual tagging, and write-up is compressed into a single pipeline run. 660 tickets are labeled, enriched, and ready for stakeholder consumption in under 3 minutes — with a Claude-generated strategic narrative already written in the voice of a senior operator.
+
+### Next Steps
+In a production environment, this pipeline would ingest tickets directly from a CRM or support platform (Zendesk, Salesforce) via API rather than from a generated CSV, with results written to a shared cloud warehouse. Planned feature additions include real-time ticket ingestion for same-day trend visibility and a feedback loop where agents can flag misclassified labels to retrain the taxonomy prompt over time.
+
 ---
 
 ## 🧠 What is Transcript Analysis?
