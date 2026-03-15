@@ -25,7 +25,7 @@ In a production environment, this pipeline would ingest tickets directly from a 
 
 ## 🧠 What is Transcript Analysis?
 
-Support tickets are one of the richest — and most underused — signals in a SaaS business. Every ticket is a customer telling you exactly where your product is failing them.
+Every ticket is a customer telling you exactly where your product is failing them.
 
 This project builds a lightweight version of what tools like unitQ do at scale: ingest raw support contacts, apply a structured taxonomy using an AI classifier, and surface the patterns that matter most to product and customer success teams.
 
