@@ -4,6 +4,8 @@ A production-style support ticket intelligence pipeline — demonstrating automa
 
 **Author:** theotherbrandonsoto | [GitHub](https://github.com/theotherbrandonsoto) | [LinkedIn](https://www.linkedin.com/in/hirebrandonsoto/)
 
+*Built with assistance from Claude.*
+
 > **Part of a connected portfolio.** The customer universe in this project (user IDs, plan types, churn status) is drawn from the same data model as [metrics-store](https://github.com/theotherbrandonsoto/metrics-store), simulating what a real multi-system analytics environment looks like.
 
 
